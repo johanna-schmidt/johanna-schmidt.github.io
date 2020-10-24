@@ -71,6 +71,11 @@ function LoadData() {
                 fillColor: COLORS[0],
                 fillOpacity: 0.5,
                 radius: 50
+            }).on('click', function(e) {
+                L.popup()
+                    .setLatLng(e.latlng)
+                    .setContent(feature.properties.name)
+                    .openOn(CORONAMAP);
             }).addTo(BARS);
         });
     });
@@ -82,6 +87,11 @@ function LoadData() {
                 fillColor: COLORS[1],
                 fillOpacity: 0.5,
                 radius: 50
+            }).on('click', function(e) {
+                L.popup()
+                    .setLatLng(e.latlng)
+                    .setContent(feature.properties.name)
+                    .openOn(CORONAMAP);
             }).addTo(BEERGARDENS);
         });
     });
@@ -93,6 +103,11 @@ function LoadData() {
                 fillColor: COLORS[2],
                 fillOpacity: 0.5,
                 radius: 50
+            }).on('click', function(e) {
+                L.popup()
+                    .setLatLng(e.latlng)
+                    .setContent(feature.properties.name)
+                    .openOn(CORONAMAP);
             }).addTo(CAFES);
         });
     });
@@ -104,6 +119,11 @@ function LoadData() {
                 fillColor: COLORS[3],
                 fillOpacity: 0.5,
                 radius: 50
+            }).on('click', function(e) {
+                L.popup()
+                    .setLatLng(e.latlng)
+                    .setContent(feature.properties.name)
+                    .openOn(CORONAMAP);
             }).addTo(FASTFOOD);
         });
     });
@@ -115,6 +135,11 @@ function LoadData() {
                 fillColor: COLORS[4],
                 fillOpacity: 0.5,
                 radius: 50
+            }).on('click', function(e) {
+                L.popup()
+                    .setLatLng(e.latlng)
+                    .setContent(feature.properties.name)
+                    .openOn(CORONAMAP);
             }).addTo(PUBS);
         });
     });
@@ -126,6 +151,11 @@ function LoadData() {
                 fillColor: COLORS[5],
                 fillOpacity: 0.5,
                 radius: 50
+            }).on('click', function(e) {
+                L.popup()
+                    .setLatLng(e.latlng)
+                    .setContent(feature.properties.name)
+                    .openOn(CORONAMAP);
             }).addTo(RESTAURANTS);
         });
     });
