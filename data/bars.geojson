@@ -1,0 +1,7764 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-24T18:41:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/84540706",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "82",
+        "addr:postcode": "1030",
+        "addr:street": "Landstraßer Hauptstraße",
+        "amenity": "bar",
+        "name": "Ströck Feierabend",
+        "opening_hours": "Mo-Fr 16:00-24:00; Sa 07:00-24:00; Su 07:00-18:00",
+        "shop": "bakery",
+        "toilets:wheelchair": "no",
+        "website": "http://www.stroeck-feierabend.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3929027,
+          48.2003245
+        ]
+      },
+      "id": "node/84540706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/146328398",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "106",
+        "addr:postcode": "1090",
+        "addr:street": "Liechtensteinstraße",
+        "amenity": "bar",
+        "description": "Whiskybar; vormals The Barn",
+        "name": "The Blue Label Bar",
+        "opening_hours": "22-",
+        "operator": "Don Enrico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3563982,
+          48.2298213
+        ]
+      },
+      "id": "node/146328398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/244492645",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "1030",
+        "addr:street": "Haidingergasse",
+        "amenity": "bar",
+        "name": "Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4004072,
+          48.1996208
+        ]
+      },
+      "id": "node/244492645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309293364",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "24",
+        "addr:postcode": "1040",
+        "addr:street": "Margaretenstraße",
+        "amenity": "bar",
+        "name": "Schikaneder",
+        "opening_hours": "Mo-Sa 18:00-04:00, Su 18:00-01:00",
+        "smoking": "separated",
+        "source": "foot survey",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.schikaneder.at/",
+        "wheelchair": "yes",
+        "wheelchair:description": "when it is full the bathroom is hard to reach though..."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3651253,
+          48.196612
+        ]
+      },
+      "id": "node/309293364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/315846062",
+        "amenity": "bar",
+        "name": "Wein & Co",
+        "shop": "vinothek",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3653354,
+          48.2000494
+        ]
+      },
+      "id": "node/315846062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/333371991",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1160",
+        "addr:street": "Matteottiplatz",
+        "amenity": "bar",
+        "name": "Grünes Licht",
+        "website": "https://www.facebook.com/1160Sandleiten/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3051414,
+          48.2229914
+        ]
+      },
+      "id": "node/333371991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/338473236",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "33",
+        "addr:postcode": "1020",
+        "addr:street": "Taborstraße",
+        "amenity": "bar",
+        "name": "Hammond",
+        "opening_hours": "Mo-Th 17:00-03:00; Fr 17:00-04:00; Sa 19:00-04:00; Su 19:00-02:00",
+        "website": "http://www.hammondbar.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3804725,
+          48.2184281
+        ]
+      },
+      "id": "node/338473236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/352270388",
+        "amenity": "bar",
+        "name": "Deluxe Coffee Bar",
+        "opening_hours": "Mo-Th 08:00-23:00; Fr,Sa 08:00-01:00, Su 09:00-23:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4173137,
+          48.173005
+        ]
+      },
+      "id": "node/352270388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370674267",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "97",
+        "addr:postcode": "1090",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "club": "culture",
+        "name": "Einbaumöbel",
+        "website": "1bm.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3425032,
+          48.2180701
+        ]
+      },
+      "id": "node/370674267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/370676470",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "99",
+        "addr:postcode": "1090",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "name": "Venster99",
+        "website": "http://venster99.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3425625,
+          48.218218
+        ]
+      },
+      "id": "node/370676470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/375998848",
+        "amenity": "bar",
+        "created_by": "Potlatch 0.10f",
+        "name": "Bar Feeling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3424914,
+          48.2196865
+        ]
+      },
+      "id": "node/375998848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409168052",
+        "amenity": "bar",
+        "name": "Ginsberg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3531696,
+          48.2040722
+        ]
+      },
+      "id": "node/409168052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/409188535",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9/1a",
+        "addr:postcode": "1060",
+        "addr:street": "Theobaldgasse",
+        "addr:unit": "1A",
+        "amenity": "bar",
+        "contact:website": "http://www.monami.at",
+        "email": "office@monami.at",
+        "name": "Mon Ami",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "phone": "+43 6507434466"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3601742,
+          48.200329
+        ]
+      },
+      "id": "node/409188535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/412345268",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1040",
+        "addr:street": "Schwarzenbergplatz",
+        "amenity": "bar",
+        "contact:email": "office@schwarzberg.wien",
+        "contact:website": "http://schwarzberg.wien",
+        "name": "Schwarzberg",
+        "old_name": "Ost Klub, Zugabe, Papas Tapas, Atrium",
+        "opening_hours": "Mo-Sa 16:00-02:00; Su 16:00-00:00",
+        "operator": "Matthias Angerer",
+        "sport": "table_soccer",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3749505,
+          48.1977287
+        ]
+      },
+      "id": "node/412345268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/415409740",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "69",
+        "addr:postcode": "1070",
+        "addr:street": "Lerchenfelder Straße",
+        "amenity": "bar",
+        "name": "Fräuleins",
+        "opening_hours": "Tu-Sa 16:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3460762,
+          48.2069555
+        ]
+      },
+      "id": "node/415409740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/442067478",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "137",
+        "addr:postcode": "1150",
+        "addr:street": "Mariahilfer Straße",
+        "amenity": "bar",
+        "name": "The Lounge wombats CITY HOSTEL VIENNA",
+        "operator": "wombats CITY HOSTEL",
+        "smoking": "no",
+        "sport": "table_soccer;billiards",
+        "tourism": "hostel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3370235,
+          48.1947989
+        ]
+      },
+      "id": "node/442067478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/450170234",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "38",
+        "addr:postcode": "1020",
+        "addr:street": "Zirkusgasse",
+        "amenity": "bar",
+        "name": "New Bar",
+        "opening_hours": "Mo-Su 17:00-01:00",
+        "phone": "+4369915231349",
+        "smoking": "yes",
+        "website": "http://facebook.com/newbarwien/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3852689,
+          48.2169355
+        ]
+      },
+      "id": "node/450170234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/457232746",
+        "amenity": "bar",
+        "name": "Aruba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3652315,
+          48.1971153
+        ]
+      },
+      "id": "node/457232746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/478688452",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1060",
+        "addr:street": "Kaunitzgasse",
+        "amenity": "bar",
+        "name": "Schauplatz",
+        "website": "http://www.schau-platz.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.354098,
+          48.197022
+        ]
+      },
+      "id": "node/478688452"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566660740",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1010",
+        "addr:street": "Sterngasse",
+        "amenity": "bar",
+        "name": "Funky Monkey",
+        "opening_hours": "Th 20:00-02:00;Fr-Sa 20:00-04:00",
+        "website": "http://www.funkymonkey.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3723092,
+          48.212021
+        ]
+      },
+      "id": "node/566660740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/566660785",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Marc-Aurel-Straße",
+        "amenity": "bar",
+        "name": "Re:Kiss"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3732201,
+          48.2123001
+        ]
+      },
+      "id": "node/566660785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/588084968",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "26-27",
+        "addr:postcode": "1080",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "email": "loop@loop.co.at",
+        "name": "Loop",
+        "phone": "+43 1 402 41 95",
+        "website": "http://www.loop.co.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3388866,
+          48.2094217
+        ]
+      },
+      "id": "node/588084968"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/636106660",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "39",
+        "addr:postcode": "1080",
+        "addr:street": "Albertgasse",
+        "amenity": "bar",
+        "name": "albertgasse39",
+        "phone": "+43 1 4020339",
+        "website": "http://www.albertgasse39.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3438849,
+          48.2122441
+        ]
+      },
+      "id": "node/636106660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/659823599",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "66",
+        "addr:postcode": "1070",
+        "addr:street": "Burggasse",
+        "amenity": "bar",
+        "name": "Cafe Zipp",
+        "opening_hours": "Mo-Fr 18:00-04:00; Sa-Su 20:00-04:00",
+        "phone": "+43 1 9249886",
+        "sport": "table_soccer",
+        "website": "http://www.cafezipp.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3477659,
+          48.2043752
+        ]
+      },
+      "id": "node/659823599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/701320972",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1070",
+        "addr:street": "Breite Gasse",
+        "amenity": "bar",
+        "contact:phone": "+43-1-526 3366",
+        "contact:website": "www.hauptsachefranz.at",
+        "name": "Hauptsache Franz",
+        "opening_hours": "Tu,We 09:00-18:00; Th,Fr 09:00-20:00; Sa 09:00-14:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3563909,
+          48.2042569
+        ]
+      },
+      "id": "node/701320972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/732931856",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4256276,
+          48.2330547
+        ]
+      },
+      "id": "node/732931856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/746332341",
+        "amenity": "bar",
+        "name": "Ur-knall"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3305137,
+          48.2257362
+        ]
+      },
+      "id": "node/746332341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/766879987",
+        "amenity": "bar",
+        "name": "Skubibar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3461221,
+          48.2104329
+        ]
+      },
+      "id": "node/766879987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/766879999",
+        "amenity": "bar",
+        "name": "Brauchbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3447124,
+          48.210026
+        ]
+      },
+      "id": "node/766879999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/766880008",
+        "amenity": "bar",
+        "name": "Gerard-Tanzbar",
+        "note": "Partylocation",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3485611,
+          48.2109596
+        ]
+      },
+      "id": "node/766880008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/766880019",
+        "amenity": "bar",
+        "email": "post@salims.at",
+        "name": "Salim's",
+        "opening_hours": "Mo-Su 16:00-02:00",
+        "phone": "+436644627185",
+        "website": "http://www.salims.at/8/ImLokal/main.html",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3469687,
+          48.2122667
+        ]
+      },
+      "id": "node/766880019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/767358619",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "1070",
+        "addr:street": "Neustiftgasse",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/erich1070",
+        "contact:website": "http://erichwien.at",
+        "diet:vegan": "yes",
+        "diet:vegetarian": "yes",
+        "name": "Erich",
+        "opening_hours": "Mo-Su 09:00-02:00",
+        "wheelchair": "yes",
+        "wheelchair:description": "WC barrierefrei erreichbar, aber sehr eng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3526468,
+          48.205143
+        ]
+      },
+      "id": "node/767358619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/768480198",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1160",
+        "addr:street": "Brunnenmarkt",
+        "amenity": "bar",
+        "name": "la Salvia",
+        "shop": "convenience",
+        "website": "https://lasalvia.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3350417,
+          48.2131426
+        ]
+      },
+      "id": "node/768480198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/848000061",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "114",
+        "addr:postcode": "1100",
+        "addr:street": "Quellenstraße",
+        "amenity": "bar",
+        "music_genre": "jazz",
+        "name": "Rendezvous",
+        "sport": "table_soccer",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3675205,
+          48.1761806
+        ]
+      },
+      "id": "node/848000061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/870980192",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1010",
+        "addr:street": "Spiegelgasse",
+        "amenity": "bar",
+        "name": "Fledermaus",
+        "phone": "+43-1-5870196",
+        "website": "http://www.fledermaus.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3704042,
+          48.2079865
+        ]
+      },
+      "id": "node/870980192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/894087147",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1010",
+        "addr:street": "Schubertring",
+        "amenity": "bar",
+        "name": "Schubert Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3754187,
+          48.2017055
+        ]
+      },
+      "id": "node/894087147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/897648009",
+        "amenity": "bar",
+        "name": "Medusa",
+        "operator": "Fobos GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.354588,
+          48.1746429
+        ]
+      },
+      "id": "node/897648009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/901058218",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Johannesgasse",
+        "amenity": "bar",
+        "name": "Bettel-Alm",
+        "website": "http://www.bettel-alm.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3744638,
+          48.2041025
+        ]
+      },
+      "id": "node/901058218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/915644331",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "1060",
+        "addr:street": "Gumpendorfer Straße",
+        "amenity": "bar",
+        "name": "Joanelli",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3562907,
+          48.198044
+        ]
+      },
+      "id": "node/915644331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/915964052",
+        "amenity": "bar",
+        "name": "Vittoria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3769201,
+          48.1813457
+        ]
+      },
+      "id": "node/915964052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/956159131",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1010",
+        "addr:street": "Annagasse",
+        "amenity": "bar",
+        "name": "New York Bar",
+        "website": "http://www.newyork-bar.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3717832,
+          48.2043363
+        ]
+      },
+      "id": "node/956159131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/956430135",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "1010",
+        "addr:street": "Wollzeile",
+        "amenity": "bar",
+        "contact:phone": "+43 1 966 21 21",
+        "name": "Hillinger Wineshop & Bar",
+        "opening_hours": "Mo-Sa 09:00-22:00",
+        "operator": "Hillinger",
+        "website": "https://www.leo-hillinger.com/wineshops/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3771324,
+          48.2082188
+        ]
+      },
+      "id": "node/956430135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/956430137",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1010",
+        "addr:street": "Seilerstätte",
+        "amenity": "bar",
+        "name": "Cafe Cristall",
+        "website": "http://www.cristall-cafe.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3768297,
+          48.2062341
+        ]
+      },
+      "id": "node/956430137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1016849141",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1010",
+        "addr:street": "Sterngasse",
+        "amenity": "bar",
+        "name": "Domby NextDoor",
+        "opening_hours": "18:00-03:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3736837,
+          48.2116196
+        ]
+      },
+      "id": "node/1016849141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1066143899",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "1010",
+        "addr:street": "Kärntner Ring",
+        "amenity": "bar",
+        "name": "Imperial Bar",
+        "operator": "Imperial Hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3729296,
+          48.2013063
+        ]
+      },
+      "id": "node/1066143899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1066619360",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "343",
+        "addr:postcode": "1230",
+        "addr:street": "Breitenfurter Straße",
+        "amenity": "bar",
+        "name": "Quan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2917842,
+          48.1412929
+        ]
+      },
+      "id": "node/1066619360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1091505630",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1020",
+        "addr:street": "Sebastian-Kneipp-Gasse",
+        "amenity": "bar",
+        "name": "Fritz von Stuwer",
+        "phone": "+43 677 62651671"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4066187,
+          48.2182276
+        ]
+      },
+      "id": "node/1091505630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1158298730",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "80-82",
+        "addr:postcode": "1180",
+        "addr:street": "Währinger Straße",
+        "amenity": "bar",
+        "name": "Café zur Volksoper",
+        "operator": "Zanoni",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3488881,
+          48.2252743
+        ]
+      },
+      "id": "node/1158298730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1166298739",
+        "amenity": "bar",
+        "name": "Cocktailbar",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3540775,
+          48.2536376
+        ]
+      },
+      "id": "node/1166298739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1166599407",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "23",
+        "addr:postcode": "1150",
+        "addr:street": "Märzstraße",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/creamloungevienna",
+        "contact:website": "http://creamlounge.at",
+        "name": "Cream Lounge",
+        "opening_hours": "Mo-Th 15:00-00:00; Fr, Sa 15:00-04:00; Su 15:00-02:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3328477,
+          48.1994486
+        ]
+      },
+      "id": "node/1166599407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1175015079",
+        "amenity": "bar",
+        "ft_symbol": "57",
+        "name": "adam & luna",
+        "opening_hours": "Apr-Oct",
+        "waterway:sign": "no_parking"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3747206,
+          48.2153796
+        ]
+      },
+      "id": "node/1175015079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1192826640",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1150",
+        "addr:street": "Märzstraße",
+        "amenity": "bar",
+        "name": "Café San Marco",
+        "opening_hours": "Mo-Th 06:00-01:00, Fr,Sa 06:00-02:00, Su,PH 08:00-01:00",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.336981,
+          48.2008367
+        ]
+      },
+      "id": "node/1192826640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1198439554",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "37",
+        "addr:postcode": "1030",
+        "addr:street": "Untere Weißgerberstraße",
+        "amenity": "bar",
+        "name": "Club Massiv",
+        "opening_hours:signed": "no",
+        "phone": "+43 681 20500194",
+        "smoking": "yes",
+        "website": "http://www.massiv.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3943543,
+          48.2091034
+        ]
+      },
+      "id": "node/1198439554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1203034330",
+        "addr:city": "Wien",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Rotenturmstraße",
+        "amenity": "bar",
+        "brewery": "yes",
+        "name": "Hamp Box Cafe",
+        "opening_hours": "Mo-Fr 12:00-02:00, Sa-Su 12:00-04:00, PH open",
+        "operator": "WIESLER KG",
+        "outdoor_seating": "yes",
+        "website": "http://www.hempbox.at",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3747466,
+          48.2104057
+        ]
+      },
+      "id": "node/1203034330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1298221010",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1080",
+        "addr:street": "Lange Gasse",
+        "amenity": "bar",
+        "description": "Open for Women, Lesbians, Intersex Persons and Transgender Persons",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "flinte",
+        "opening_hours": "Th-Fr 19:00-24:00",
+        "sport": "table_soccer",
+        "website": "https://finteflinte.org",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3526882,
+          48.207189
+        ]
+      },
+      "id": "node/1298221010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1308579742",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4b",
+        "addr:postcode": "1010",
+        "addr:street": "Dr.-Karl-Lueger-Platz",
+        "amenity": "bar",
+        "name": "Tinto Rosso",
+        "opening_hours": "Mo-Sa 16:00-24:00; PH off",
+        "website": "https://www.tintorosso.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.378886,
+          48.2080721
+        ]
+      },
+      "id": "node/1308579742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1308667841",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Universitätsring",
+        "amenity": "bar",
+        "name": "Wein & Co",
+        "opening_hours": "Mo-We 10:00-24:00; Th-Sa 10:00-01:00, Su 11:00-24:00; PH 11:00-24:00",
+        "website": "https://www.weinco.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3618818,
+          48.2131038
+        ]
+      },
+      "id": "node/1308667841"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1358151190",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "62",
+        "addr:postcode": "1050",
+        "addr:street": "Ramperstorffergasse",
+        "amenity": "bar",
+        "name": "Tik Tak Lounge",
+        "opening_hours": "Mo-Th 20:00-02:00;Fr-Sa 20:00-04:00",
+        "sport": "table_soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3556475,
+          48.1896405
+        ]
+      },
+      "id": "node/1358151190"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1370226152",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1080",
+        "addr:street": "Buchfeldgasse",
+        "amenity": "bar",
+        "name": "Tür 7",
+        "phone": "+43 664 5463717",
+        "website": "http://tuer7.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3533583,
+          48.2101362
+        ]
+      },
+      "id": "node/1370226152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1377764088",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1080",
+        "addr:street": "Laudongasse",
+        "amenity": "bar",
+        "name": "nachBar",
+        "opening_hours": "Mo-Sa 18:00+; Su 18:00-24:00",
+        "phone": "+43 1 4063303",
+        "smoking": "isolated",
+        "sport": "table_soccer",
+        "website": "https://www.nachbar.co.at/",
+        "wheelchair": "no",
+        "wheelchair:description": "Durch den Notausgang"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3521986,
+          48.2135059
+        ]
+      },
+      "id": "node/1377764088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1412503434",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1020",
+        "addr:street": "Obere Donaustraße",
+        "addr:unit": "3",
+        "amenity": "bar",
+        "name": "Adria",
+        "website": "www.adriawien.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.375091,
+          48.214769
+        ]
+      },
+      "id": "node/1412503434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1437876729",
+        "amenity": "bar",
+        "cuisine": "mexican",
+        "name": "Radio",
+        "opening_hours": "Mo-Th 17:00-02:00, Fr,Sa 17:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3504177,
+          48.2054324
+        ]
+      },
+      "id": "node/1437876729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1438264958",
+        "amenity": "bar",
+        "name": "Falkensteiner Weinstube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.33414,
+          48.24258
+        ]
+      },
+      "id": "node/1438264958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439072553",
+        "amenity": "bar",
+        "gay": "yes",
+        "level": "0",
+        "name": "Sling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3615963,
+          48.1945532
+        ]
+      },
+      "id": "node/1439072553"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439072574",
+        "amenity": "bar",
+        "name": "Nachtlokal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.356589,
+          48.195932
+        ]
+      },
+      "id": "node/1439072574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439091557",
+        "addr:city": "Wien",
+        "addr:housenumber": "14",
+        "addr:postcode": "1050",
+        "addr:street": "Rüdigergasse",
+        "amenity": "bar",
+        "email": "caferuediger@chello.at",
+        "lgbtq": "primary",
+        "lgbtq:men": "only",
+        "name": "Café Rüdiger",
+        "opening_hours": "Mo-Th 19:00-24:00; Fr-Sa 19:00-02:00",
+        "website": "http://caferüdiger.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3567955,
+          48.1942692
+        ]
+      },
+      "id": "node/1439091557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439091561",
+        "amenity": "bar",
+        "name": "Diskothek Wiener Freiheit",
+        "opening_hours": "Mo-Su,PH 21:00-18:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3590512,
+          48.1936255
+        ]
+      },
+      "id": "node/1439091561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1439102430",
+        "amenity": "bar",
+        "contact:twitter": "https://twitter.com/LMCVienna",
+        "fetish:leather": "yes",
+        "gay": "yes",
+        "lgbtq": "primary",
+        "name": "Club Hardon Vienna",
+        "website": "https://www.lmc-vienna.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3571147,
+          48.1961447
+        ]
+      },
+      "id": "node/1439102430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1442012594",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1110",
+        "addr:street": "Guglgasse",
+        "amenity": "bar",
+        "contact:website": "https://www.gimlet.at",
+        "name": "Gimlet",
+        "opening_hours": "Mo-Su 15:00-23:00",
+        "smoking": "isolated",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4211799,
+          48.1859117
+        ]
+      },
+      "id": "node/1442012594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1460971270",
+        "amenity": "bar",
+        "name": "Novak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3471885,
+          48.1992431
+        ]
+      },
+      "id": "node/1460971270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467022523",
+        "amenity": "bar",
+        "name": "Unplugged"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3574536,
+          48.2236856
+        ]
+      },
+      "id": "node/1467022523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467153076",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "1200",
+        "addr:street": "Jägerstraße",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/Club-Howarda-269903463074582/",
+        "min_age": "18",
+        "name": "Hovarda Dance Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3703373,
+          48.2276155
+        ]
+      },
+      "id": "node/1467153076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467161864",
+        "amenity": "bar",
+        "name": "Private Etablisment",
+        "website": "www.Sexhaus.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3306549,
+          48.1920486
+        ]
+      },
+      "id": "node/1467161864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467262887",
+        "amenity": "bar",
+        "name": "Stylez",
+        "website": "www.stylez.at",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.349747,
+          48.1990756
+        ]
+      },
+      "id": "node/1467262887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467267659",
+        "addr:city": "Wien",
+        "addr:housenumber": "12",
+        "addr:postcode": "1200",
+        "addr:street": "Klosterneuburger Straße",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Cafe Miami",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3690236,
+          48.2279919
+        ]
+      },
+      "id": "node/1467267659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467267792",
+        "amenity": "bar",
+        "name": "Wettbüro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3689555,
+          48.2260737
+        ]
+      },
+      "id": "node/1467267792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467300183",
+        "amenity": "bar",
+        "name": "Freddys karaokeclub 29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3760419,
+          48.2300225
+        ]
+      },
+      "id": "node/1467300183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1467862682",
+        "amenity": "bar",
+        "name": "Cashpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3665356,
+          48.2276366
+        ]
+      },
+      "id": "node/1467862682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1468212155",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "56",
+        "addr:postcode": "1080",
+        "addr:street": "Josefstädter Straße",
+        "amenity": "bar",
+        "name": "Grande Cocktailbar",
+        "opening_hours": "Mo-Th 18:00-02:00; Fr,Sa 18:00-04:00",
+        "phone": "+43-676-361 97 60",
+        "website": "http://grandebar.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3456396,
+          48.2103581
+        ]
+      },
+      "id": "node/1468212155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1493398919",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1230",
+        "addr:street": "Fröhlichgasse",
+        "amenity": "bar",
+        "name": "Caffe Calipso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.290976,
+          48.1399334
+        ]
+      },
+      "id": "node/1493398919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1508521484",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1020",
+        "addr:street": "Hollandstraße",
+        "amenity": "bar",
+        "contact:website": "http://www.pilwax.at",
+        "name": "Pilwax",
+        "opening_hours": "Mo-Fr 12:00-23:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.37635,
+          48.2149664
+        ]
+      },
+      "id": "node/1508521484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1540721019",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "26",
+        "addr:postcode": "1080",
+        "addr:street": "Stolzenthalergasse",
+        "amenity": "bar",
+        "name": "Cafe G-Punkt",
+        "opening_hours": "Sep-Jun: Mo-Sa 20:00-04:00; Su 20:00-02:00; Jul-Aug: Mo-Th 18:00-04:00; Fr-Sa 20:00-04:00; Su 20:00-02:00",
+        "shop": "antiques",
+        "sport": "table_soccer",
+        "website": "http://cafe-g-punkt.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3422785,
+          48.2105325
+        ]
+      },
+      "id": "node/1540721019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1541917300",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "1070",
+        "addr:street": "Siebensterngasse",
+        "amenity": "bar",
+        "name": "MEERU",
+        "opening_hours": "Tu-Sa 18:00 - 02:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3539821,
+          48.2022382
+        ]
+      },
+      "id": "node/1541917300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1575886812",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1070",
+        "addr:street": "Kirchberggasse",
+        "amenity": "bar",
+        "condition": "good",
+        "contact:phone": "+43 660 6660039",
+        "name": "Papi´s Bar",
+        "opening_hours": "Mo-Su 17:00-01:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.356047,
+          48.2028978
+        ]
+      },
+      "id": "node/1575886812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1580828927",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1080",
+        "addr:street": "Laudongasse",
+        "alt_name": "USW-Beisl",
+        "amenity": "bar",
+        "name": "u.s.w.",
+        "opening_hours": "Su 16:00-24:00; Mo-Sa 17:00-01:00",
+        "phone": "+43 664 4945182",
+        "sport": "table_soccer",
+        "website": "https://www.uswbeisl.com/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3518487,
+          48.2134974
+        ]
+      },
+      "id": "node/1580828927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1588468283",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1010",
+        "addr:street": "Liebenberggasse",
+        "amenity": "bar",
+        "name": "Actress Lounge",
+        "source": "openstreetbugs",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3774348,
+          48.2063405
+        ]
+      },
+      "id": "node/1588468283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591079266",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1060",
+        "addr:street": "Getreidemarkt",
+        "amenity": "bar",
+        "name": "Addicted to Rock",
+        "smoking": "no",
+        "website": "https://store.addicted.at/",
+        "wheelchair": "no",
+        "wheelchair:description": "Nicht Barrierefrei. Viele Stufen."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3625966,
+          48.2017328
+        ]
+      },
+      "id": "node/1591079266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591079349",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1060",
+        "amenity": "bar",
+        "name": "Impuls Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3624584,
+          48.2015786
+        ]
+      },
+      "id": "node/1591079349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591079408",
+        "amenity": "bar",
+        "name": "Alternative Cafe Bar",
+        "opening_hours": "Mo-Th 09:00-23:00; Fr,Sa 09:00-24:00; Su 11:00-22:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3572707,
+          48.1986466
+        ]
+      },
+      "id": "node/1591079408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591079494",
+        "amenity": "bar",
+        "contact:email": "office@village-bar.at",
+        "contact:facebook": "https://www.facebook.com/VillageBarVienna",
+        "contact:website": "http://www.village-bar.at/",
+        "gay": "yes",
+        "lgbtq": "primary",
+        "name": "Village",
+        "opening_hours": "Mo-Su,PH 20:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.358101,
+          48.1979026
+        ]
+      },
+      "id": "node/1591079494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1591079501",
+        "amenity": "bar",
+        "name": "Weinhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.355969,
+          48.1982031
+        ]
+      },
+      "id": "node/1591079501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1630099990",
+        "addr:city": "Perchtoldsdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "2380",
+        "addr:street": "Hochstraße",
+        "amenity": "bar",
+        "description": "Cocktail-Bar",
+        "name": "Burgbar",
+        "opening_hours": "Tu-Sa 19:00+",
+        "phone": "+43 699 19476734",
+        "website": "https://www.burgbar.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2647154,
+          48.1203973
+        ]
+      },
+      "id": "node/1630099990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1665276227",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "153",
+        "addr:postcode": "1130",
+        "addr:street": "Hietzinger Hauptstraße",
+        "amenity": "bar",
+        "name": "Schneider-Gössl Sektbar",
+        "smoking": "yes",
+        "website": "http://sektbar.hietzing.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2669517,
+          48.1880272
+        ]
+      },
+      "id": "node/1665276227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1676768068",
+        "amenity": "bar",
+        "name": "Neulich",
+        "opening_hours": "Tu-Th 17:00-24:00, Fr,Sa 19:00-02:00",
+        "phone": "+43 676 9197991",
+        "toilets:wheelchair": "no",
+        "website": "https://www.facebook.com/neulich.winkler",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3878548,
+          48.1989204
+        ]
+      },
+      "id": "node/1676768068"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1691939108",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:floor": "6",
+        "addr:housename": "Gasometer B",
+        "addr:housenumber": "8",
+        "addr:postcode": "1110",
+        "addr:street": "Guglgasse",
+        "amenity": "bar",
+        "name": "Gasobar",
+        "opening_hours": "Tu 20:00-02:00, We 20:00-02:00; Fr 20:00-04:00, Sa 20:00-04:00",
+        "smoking": "yes",
+        "website": "www.facebook.com/gasobar",
+        "wheelchair": "yes",
+        "wifi": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4193773,
+          48.1851763
+        ]
+      },
+      "id": "node/1691939108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1692181459",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "1090",
+        "addr:street": "Berggasse",
+        "amenity": "bar",
+        "name": "Treffpunkt",
+        "opening_hours": "Mo-Fr 08:00-02:00; Sa, Su 10:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3649096,
+          48.2191427
+        ]
+      },
+      "id": "node/1692181459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1722364856",
+        "amenity": "bar",
+        "name": "Grü Lounge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4137038,
+          48.2131507
+        ]
+      },
+      "id": "node/1722364856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1723752707",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1090",
+        "addr:street": "Spittelauer Lände",
+        "amenity": "bar",
+        "contact:website": "http://www.spittelau10.at",
+        "name": "Spittelau 10",
+        "opening_hours": "\"on request\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.361687,
+          48.231593
+        ]
+      },
+      "id": "node/1723752707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1725602067",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "31A",
+        "addr:postcode": "1040",
+        "addr:street": "Schönburgstraße",
+        "amenity": "bar",
+        "email": "m.heueisen@live.at",
+        "internet_access": "no",
+        "name": "Get down",
+        "opening_hours": "We-Th 17:00 - 00:00, Fr-Sa 17:00 - 02:00",
+        "outdoor_seating": "yes",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "no",
+        "payment:cryptocurrencies": "no",
+        "payment:debit_cards": "no",
+        "payment:electronic_purses": "no",
+        "payment:notes": "yes",
+        "phone": "+43 660 5447603",
+        "smoking": "separated",
+        "start_date": "11-2016",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3707376,
+          48.1859628
+        ]
+      },
+      "id": "node/1725602067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729254629",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1040",
+        "addr:street": "Schleifmühlgasse",
+        "amenity": "bar",
+        "description": "Sekt Bar und Geschäft",
+        "name": "Sektcomptoir",
+        "product": "sparkling wine",
+        "website": "www.sektcomptoir.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3644261,
+          48.1978378
+        ]
+      },
+      "id": "node/1729254629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729255371",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "21",
+        "addr:postcode": "1040",
+        "addr:street": "Schleifmühlgasse",
+        "amenity": "bar",
+        "name": "Xeno",
+        "opening_hours": "Mo-Th 18:00-02:00;Fr-Sa 18:00-04:00;Su 20:00-02:00",
+        "sport": "table_soccer",
+        "website": "http://www.xeno.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3641846,
+          48.1980274
+        ]
+      },
+      "id": "node/1729255371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729259153",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1040",
+        "addr:street": "Schikanedergasse",
+        "amenity": "bar",
+        "gay": "yes",
+        "name": "Inside",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3633102,
+          48.1977664
+        ]
+      },
+      "id": "node/1729259153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1752561673",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housename": "Senator Hotel Vienna",
+        "addr:housenumber": "105",
+        "addr:postcode": "1170",
+        "addr:street": "Hernalser Hauptstraße",
+        "amenity": "bar",
+        "name": "Senator Bar",
+        "website": "https://www.rainer-hotels.at/senator",
+        "wifi": "free"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3254723,
+          48.2196182
+        ]
+      },
+      "id": "node/1752561673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756173656",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1060",
+        "addr:street": "Luftbadgasse",
+        "amenity": "bar",
+        "name": "Luftbad",
+        "website": "http://www.luftbad.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3547732,
+          48.1973456
+        ]
+      },
+      "id": "node/1756173656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1756941534",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1010",
+        "addr:street": "Salvatorgasse",
+        "alt_name": "Chill out lounge",
+        "amenity": "bar",
+        "name": "Chill out",
+        "opening_hours": "17:00-02:00",
+        "website": "http://www.chillout-lounge.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3721828,
+          48.2118009
+        ]
+      },
+      "id": "node/1756941534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1759921000",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "51",
+        "addr:postcode": "1060",
+        "addr:street": "Gumpendorfer Straße",
+        "amenity": "bar",
+        "name": "Eberts Cocktailbar",
+        "opening_hours": "Tu-Sa 19:00-02:00",
+        "phone": "+43 1 5865465",
+        "website": "http://www.eberts.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3555548,
+          48.1979277
+        ]
+      },
+      "id": "node/1759921000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1764201661",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1060",
+        "addr:street": "Rahlgasse",
+        "amenity": "bar",
+        "email": "bar@topkino.at",
+        "name": "Top Kino Bar",
+        "opening_hours": "Mo-We 11:00-02:00;Th-Sa 11:00-04:00;Su 10:30-00:00",
+        "phone": "+43-1-2083000",
+        "smoking": "no",
+        "toilets:wheelchair": "yes",
+        "website": "https://www.topkino.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3615944,
+          48.2013509
+        ]
+      },
+      "id": "node/1764201661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1787528904",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housename": "WurstBotschaft",
+        "addr:postcode": "1020",
+        "addr:street": "Salztorbrücke",
+        "amenity": "bar",
+        "cuisine": "ice_cream",
+        "name": "Ben&Jerry's",
+        "note": "Zwar immer noch B&J-Bemalung, verkauft aber 04/16 Bier und Cocktails",
+        "source": "own eyes",
+        "website": "https://www.benjerry.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3751882,
+          48.2146527
+        ]
+      },
+      "id": "node/1787528904"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1836989583",
+        "amenity": "bar",
+        "name": "Weidlich Café Konditorei",
+        "opening_hours": "Mo-Fr 08:30-18:30; Sa,Su 09:00-18:30",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3317022,
+          48.1813814
+        ]
+      },
+      "id": "node/1836989583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1888704366",
+        "amenity": "bar",
+        "brothel:club": "yes",
+        "name": "Xena Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4012936,
+          48.2186109
+        ]
+      },
+      "id": "node/1888704366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1921846107",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1060",
+        "addr:street": "Mariahilfer Straße",
+        "amenity": "bar",
+        "email": "bar@lutz-bar.at",
+        "name": "lutz - die bar",
+        "operator": "Lutz Barbetrieb GmbH",
+        "phone": "+43 1 585 36 46",
+        "smoking": "isolated",
+        "source": "www.lutz-bar.at",
+        "website": "https://www.lutz-bar.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36014,
+          48.201304
+        ]
+      },
+      "id": "node/1921846107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1924276045",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1010",
+        "addr:street": "Sonnenfelsgasse",
+        "amenity": "bar",
+        "name": "Blue Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3769784,
+          48.2092086
+        ]
+      },
+      "id": "node/1924276045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927753846",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "29-30",
+        "addr:postcode": "1080",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "name": "Chelsea",
+        "website": "http://www.chelsea.co.at",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3389569,
+          48.2098819
+        ]
+      },
+      "id": "node/1927753846"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1927759612",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "37",
+        "addr:postcode": "1160",
+        "addr:street": "Lerchenfelder Gürtel",
+        "amenity": "bar",
+        "name": "The Loft",
+        "opening_hours": "Tu-We 19:00-02:00;Th 17:30-02:00;Fr-Sa 20:00-04:00",
+        "operator": "The Loft Betriebs GmbH",
+        "sport": "table_soccer",
+        "website": "https://www.theloft.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3381486,
+          48.2089053
+        ]
+      },
+      "id": "node/1927759612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1949363099",
+        "amenity": "bar",
+        "name": "Nightfly's American Bar",
+        "website": "https://www.nightflys.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3691375,
+          48.2072597
+        ]
+      },
+      "id": "node/1949363099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1949411509",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Gonzagagasse",
+        "amenity": "bar",
+        "name": "Club Berlin",
+        "opening_hours": "Su-Th 18:00-02:00;Fr-Sa 18:00-04:00",
+        "phone": "+43 1 5330479",
+        "sport": "table_soccer",
+        "website": "http://www.clubberlin.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3709128,
+          48.2150228
+        ]
+      },
+      "id": "node/1949411509"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1949411512",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1010",
+        "addr:street": "Salzgries",
+        "amenity": "bar",
+        "name": "Dino's American Bar",
+        "opening_hours": "Mo-Th 18:00-03:00, Fr 18:00-04:00, Sa 19:00-04:00, Su 19:00-02:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3707118,
+          48.2133264
+        ]
+      },
+      "id": "node/1949411512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1949419327",
+        "amenity": "bar",
+        "name": "Kix Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3753437,
+          48.2093369
+        ]
+      },
+      "id": "node/1949419327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1970364590",
+        "amenity": "bar",
+        "contact:website": "http://www.eastcoast.at",
+        "name": "East Coast",
+        "opening_hours": "Mo-Fr 17:00-02:00, Sa,PH 19:30-02:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.36629,
+          48.2161618
+        ]
+      },
+      "id": "node/1970364590"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1970367987",
+        "amenity": "bar",
+        "email": "office@csernibar.at",
+        "name": "Cserni",
+        "opening_hours": "Mo-Fr 11:00-24:00",
+        "phone": "+43 (0)1 / 5337007",
+        "phone:mobile": "+43 (0)664 / 3186319",
+        "website": "https://www.csernibar.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3655123,
+          48.2149562
+        ]
+      },
+      "id": "node/1970367987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1992827875",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "37-38",
+        "addr:postcode": "1080",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "name": "rhiz",
+        "website": "http://rhiz.org/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3390688,
+          48.2107552
+        ]
+      },
+      "id": "node/1992827875"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179815",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "18",
+        "addr:postcode": "1090",
+        "addr:street": "Grünentorgasse",
+        "amenity": "bar",
+        "name": "Leger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3645077,
+          48.2207396
+        ]
+      },
+      "id": "node/2048179815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048199383",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "1180",
+        "addr:street": "Gymnasiumstraße",
+        "amenity": "bar",
+        "name": "d.e.r. Location",
+        "opening_hours": "Mo-Su 18:00-02:00",
+        "payment:coins": "yes",
+        "phone": "+43 699 19478040",
+        "sport": "table_soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3434769,
+          48.2285502
+        ]
+      },
+      "id": "node/2048199383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2113476871",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housename": "Haas Haus",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Stephansplatz",
+        "amenity": "bar",
+        "name": "Onyx Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3717776,
+          48.2083413
+        ]
+      },
+      "id": "node/2113476871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2129501690",
+        "amenity": "bar",
+        "name": "Tropikal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3085416,
+          48.2151462
+        ]
+      },
+      "id": "node/2129501690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2145110892",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "1150",
+        "addr:street": "Tellgasse",
+        "amenity": "bar",
+        "email": "info@schwelle.at",
+        "min_age": "18",
+        "name": "schwelle.wien",
+        "source": "local knowledge;https://schwelle.at",
+        "website": "https://schwelle.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3255219,
+          48.2010306
+        ]
+      },
+      "id": "node/2145110892"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2152354102",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1090",
+        "addr:street": "Wasagasse",
+        "amenity": "bar",
+        "name": "krypt.",
+        "website": "http://krypt.bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3602357,
+          48.2178372
+        ]
+      },
+      "id": "node/2152354102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2156238168",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1090",
+        "addr:street": "Höfergasse",
+        "amenity": "bar",
+        "contact:website": "https://soundterrasse.business.site",
+        "name": "Soundterrasse",
+        "opening_hours": "Th-Fr 17:00-23:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3497509,
+          48.2168244
+        ]
+      },
+      "id": "node/2156238168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2184683518",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1150",
+        "addr:street": "Schwendergasse",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/zumschwarzenflamingo",
+        "contact:phone": "+43 664 1986043",
+        "name": "Zum Schwarzen Flamingo",
+        "opening_hours": "Tu-Fr 16:00-01:00; Sa 18:00-01:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3284741,
+          48.1910096
+        ]
+      },
+      "id": "node/2184683518"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2336571028",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1150",
+        "addr:street": "Märzstraße",
+        "amenity": "bar",
+        "name": "Caffè Verona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3361653,
+          48.2003729
+        ]
+      },
+      "id": "node/2336571028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2347275566",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "154",
+        "addr:postcode": "1090",
+        "addr:street": "Währinger Gürtel",
+        "amenity": "bar",
+        "name": "Baku Lounge",
+        "smoking": "dedicated",
+        "website": "http://baku-lounge.com/reserve.php"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3515804,
+          48.2304766
+        ]
+      },
+      "id": "node/2347275566"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2352669698",
+        "amenity": "bar",
+        "name": "Hafenkneipe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3901695,
+          48.2136921
+        ]
+      },
+      "id": "node/2352669698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2353475441",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "82",
+        "addr:postcode": "1120",
+        "addr:street": "Meidlinger Hauptstraße",
+        "amenity": "bar",
+        "name": "Golden Harp Kaffeehaus",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3300829,
+          48.1751922
+        ]
+      },
+      "id": "node/2353475441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2359394178",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25–27",
+        "addr:postcode": "1030",
+        "addr:street": "Baumgasse",
+        "amenity": "bar",
+        "name": "Bar Black Lounge",
+        "opening_hours": "Mo-Su 15:00-24:00",
+        "phone": "+43-1-920 3944",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3981282,
+          48.1958724
+        ]
+      },
+      "id": "node/2359394178"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2415389880",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1190",
+        "addr:street": "Nußdorfer Platz",
+        "amenity": "bar",
+        "name": "Shakes",
+        "opening_hours": "16:00-02:00",
+        "phone": "+43 676 6514765"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3663263,
+          48.2602057
+        ]
+      },
+      "id": "node/2415389880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2437230770",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1020",
+        "addr:street": "Glockengasse",
+        "amenity": "bar",
+        "name": "Zum Schatz",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.382912,
+          48.2198457
+        ]
+      },
+      "id": "node/2437230770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2458558769",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "1130",
+        "addr:street": "Altgasse",
+        "amenity": "bar",
+        "name": "Schaumweinhäuschen",
+        "opening_hours": "Mo-Fr 19:00+; Sa 20:00+",
+        "phone": "+43 1 8764816",
+        "source": "personal observation",
+        "website": "http://www.schaumweinhaeuschen.at",
+        "wheelchair": "yes",
+        "wheelchair:description": "Türbreite 110 cm, Tür ist 2 Flüglig (geprüft von FORSCH!13)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2996592,
+          48.1852274
+        ]
+      },
+      "id": "node/2458558769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2476501165",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Karlsplatz",
+        "amenity": "bar",
+        "name": "Bergstation Tirol",
+        "phone": "+43 (1) 505 38 39",
+        "website": "http://www.bergstation-tirol.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3717769,
+          48.2006052
+        ]
+      },
+      "id": "node/2476501165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2506067377",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1200",
+        "addr:street": "Hellwagstraße",
+        "amenity": "bar",
+        "cuisine": "regional",
+        "name": "Café Haller",
+        "opening_hours": "Mo-Sa,PH 10:00-02:00, Su 10:00-24:00",
+        "phone": "+43 1 3325566",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3778858,
+          48.2360484
+        ]
+      },
+      "id": "node/2506067377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2538461878",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "01. Innere Stadt",
+        "addr:postcode": "1010",
+        "amenity": "bar",
+        "name": "Le Moet",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3661961,
+          48.2028144
+        ]
+      },
+      "id": "node/2538461878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2568290640",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1060",
+        "addr:street": "Magdalenenstraße",
+        "amenity": "bar",
+        "brewery": "Stiegl;Pilsner;Kozel",
+        "gay": "welcome",
+        "min_age": "16",
+        "name": "The Hive",
+        "opening_hours": "Mo-Su 17:00-01:00",
+        "opening_hours:covid19": "Mo-Su 17:00-01:00",
+        "website": "https://the-hive.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3553169,
+          48.1965154
+        ]
+      },
+      "id": "node/2568290640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2592091647",
+        "amenity": "bar",
+        "gay": "yes",
+        "name": "Kisss",
+        "phone": "+43 1 5811560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3545314,
+          48.1972602
+        ]
+      },
+      "id": "node/2592091647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2617117223",
+        "amenity": "bar",
+        "name": "Duzi's"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3832447,
+          48.2142447
+        ]
+      },
+      "id": "node/2617117223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2650654801",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Krugerstraße",
+        "amenity": "bar",
+        "name": "Kruger's",
+        "website": "http://www.krugers.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.371322,
+          48.2040473
+        ]
+      },
+      "id": "node/2650654801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2669050201",
+        "amenity": "bar",
+        "name": "Wein & Co",
+        "opening_hours": "Mo-Sa 10:00-2:00; Su 15:00 - 24:00; PH 15:00 - 24:00",
+        "phone": "+43 5 07 06-3022",
+        "shop": "vinothek",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3543037,
+          48.2000959
+        ]
+      },
+      "id": "node/2669050201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2693105392",
+        "amenity": "bar",
+        "biergarten": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3003072,
+          48.1870432
+        ]
+      },
+      "id": "node/2693105392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2710845517",
+        "amenity": "bar",
+        "name": "57 Restaurant & Lounge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4125779,
+          48.2319591
+        ]
+      },
+      "id": "node/2710845517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2744327532",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "124",
+        "addr:postcode": "1070",
+        "addr:street": "Mariahilfer Straße",
+        "amenity": "bar",
+        "name": "Köö",
+        "sport": "billiards"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3410297,
+          48.1963477
+        ]
+      },
+      "id": "node/2744327532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2825068737",
+        "amenity": "bar",
+        "layer": "-1",
+        "name": "Albertinapassage",
+        "website": "www.albertinapassage.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3682597,
+          48.202841
+        ]
+      },
+      "id": "node/2825068737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2886905792",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1060",
+        "addr:street": "Windmühlgasse",
+        "amenity": "bar",
+        "name": "Stehbeisl",
+        "opening_hours": "18:00-04:00",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3581134,
+          48.2005317
+        ]
+      },
+      "id": "node/2886905792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2887404176",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "26",
+        "addr:postcode": "1070",
+        "addr:street": "Zieglergasse",
+        "amenity": "bar",
+        "name": "Xalos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3451752,
+          48.199846
+        ]
+      },
+      "id": "node/2887404176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2962299633",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11-13",
+        "addr:postcode": "1010",
+        "addr:street": "Bauernmarkt",
+        "amenity": "bar",
+        "contact:email": "mail@robertosbar.com",
+        "contact:phone": "+43 676 9429001",
+        "contact:website": "http://www.robertosbar.com/",
+        "name": "Roberto American Bar",
+        "opening_hours": "Mo 12:00-04:00; Tu 12:00-04:00; We 12:00-04:00; Th 12:00-04:00; Fr 12:00-04:00; Sa 12:00-04:00; Su 12:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3722932,
+          48.2099932
+        ]
+      },
+      "id": "node/2962299633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2984602439",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1040",
+        "addr:street": "Wiedner Hauptstraße",
+        "amenity": "bar",
+        "name": "Silver Bar",
+        "opening_hours": "18:00-02:00",
+        "phone": "+43 1 589 180",
+        "website": "https://www.dastriest.at/index_mobile.php?site=silverbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3673297,
+          48.1974387
+        ]
+      },
+      "id": "node/2984602439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3034087245",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1160",
+        "addr:street": "Thaliastraße",
+        "amenity": "bar",
+        "name": "Heinrichs Gastronomie & Veranstaltungsräume",
+        "name:de": "Heinrichs Gastronomie & Veranstaltungsräume"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3366808,
+          48.2089655
+        ]
+      },
+      "id": "node/3034087245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3057641946",
+        "amenity": "bar",
+        "name": "Rocknrolla"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3093263,
+          48.1598722
+        ]
+      },
+      "id": "node/3057641946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3057641952",
+        "amenity": "bar",
+        "name": "Cleopatra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3117251,
+          48.161722
+        ]
+      },
+      "id": "node/3057641952"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3114407824",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "1080",
+        "addr:street": "Strozzigasse",
+        "amenity": "bar",
+        "drink:gin": "yes",
+        "name": "Das Torberg",
+        "opening_hours": "Tu-Sa 17:00-03:00",
+        "operator": "Gerald Alexander Gsöls",
+        "phone": "+43 1 9563479",
+        "smoking": "no",
+        "website": "https://www.dastorberg.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3486411,
+          48.2093928
+        ]
+      },
+      "id": "node/3114407824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3171408096",
+        "amenity": "bar",
+        "level": "7",
+        "name": "Sky Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3722737,
+          48.2064383
+        ]
+      },
+      "id": "node/3171408096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215150277",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1060",
+        "addr:street": "Girardigasse",
+        "amenity": "bar",
+        "contact:email": "office@puff-bar.at",
+        "contact:phone": "+43 1 5810931",
+        "contact:website": "http://www.puff-bar.at",
+        "name": "Puff",
+        "opening_hours": "Tu-Th 19:00-2:00; Fr-Sa 19:00-04:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3616147,
+          48.1995721
+        ]
+      },
+      "id": "node/3215150277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215670080",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1010",
+        "addr:street": "Kärntner Straße",
+        "addr:unit": "Eingang Kärntner Durchgang",
+        "amenity": "bar",
+        "contact:email": "office@loosbar.at",
+        "contact:phone": "+43 1 5123283",
+        "contact:website": "http://www.loosbar.at",
+        "name": "Loosbar",
+        "opening_hours": "Mo-We 12:00-04:00; Th-Sa 12:00-05:00; Su 12:00-04:00",
+        "wikidata": "Q463452"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3712027,
+          48.2071608
+        ]
+      },
+      "id": "node/3215670080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857484",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1010",
+        "addr:street": "Rabensteig",
+        "amenity": "bar",
+        "contact:email": "maranda.k@wavenet.at",
+        "contact:phone": "+43 1 9584890",
+        "contact:website": "http://www.casablanca-musik.at",
+        "name": "Casablanca",
+        "opening_hours": "Mo-Sa 12:00-04:00; Su 17:00-04:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3753881,
+          48.2119116
+        ]
+      },
+      "id": "node/3215857484"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857485",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Rabensteig",
+        "amenity": "bar",
+        "name": "Le Club",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3751675,
+          48.2119446
+        ]
+      },
+      "id": "node/3215857485"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857486",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Seitenstettengasse",
+        "amenity": "bar",
+        "contact:email": "drinks@firstfloorbar.at",
+        "contact:phone": "+43 1 5321165",
+        "contact:website": "http://firstfloorbar.at",
+        "name": "First Floor American Bar",
+        "opening_hours": "Mo-Su 20:00-04:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3750644,
+          48.2117497
+        ]
+      },
+      "id": "node/3215857486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857490",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Seitenstettengasse",
+        "amenity": "bar",
+        "contact:email": "office@kaktusbar.at",
+        "contact:phone": "+43 676 6704405",
+        "contact:website": "http://www.kaktusbar.at",
+        "name": "Kaktus",
+        "opening_hours": "Mo-Su 19:00-04:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3747232,
+          48.2117525
+        ]
+      },
+      "id": "node/3215857490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857493",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1010",
+        "addr:street": "Seitenstettengasse",
+        "amenity": "bar",
+        "contact:phone": "+43 1 5353387",
+        "contact:website": "http://marincomics.com/nonplusultra",
+        "name": "Non+Ultra",
+        "opening_hours": "Mo-Th 19:00-02:00; Fr, Sa 19:00-04:00",
+        "smoking": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3742811,
+          48.2118366
+        ]
+      },
+      "id": "node/3215857493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857494",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Seitenstettengasse",
+        "amenity": "bar",
+        "contact:email": "bar@ronconsoda.at",
+        "contact:phone": "+43 650 3192184",
+        "contact:website": "http://www.ronconsoda.at",
+        "name": "Ron Con Soda",
+        "opening_hours": "19:00-04:00",
+        "payment:credit_cards": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3751582,
+          48.2117696
+        ]
+      },
+      "id": "node/3215857494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857495",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Rabensteig",
+        "amenity": "bar",
+        "contact:email": "office@roterengel.at",
+        "contact:phone": "+43 1 5354105",
+        "contact:website": "http://www.roterengel.at",
+        "name": "Roter Engel",
+        "opening_hours": "Mo-Su 17:00-04:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3751726,
+          48.2118628
+        ]
+      },
+      "id": "node/3215857495"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3215857496",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Seitenstettengasse",
+        "amenity": "bar",
+        "contact:email": "office@slammerbar.at",
+        "contact:website": "http://www.slammerbar.at",
+        "name": "Slammerbar",
+        "opening_hours": "Mo-Sa 19:00-04:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3748283,
+          48.2117525
+        ]
+      },
+      "id": "node/3215857496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3235042362",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "81",
+        "addr:postcode": "1070",
+        "addr:street": "Kaiserstraße",
+        "amenity": "bar",
+        "name": "Tredici Gradi",
+        "opening_hours": "Mo-Sa 08:00-24:00; Su 16:00-24:00",
+        "phone": "+43 1 2366 4444",
+        "smoking": "outside",
+        "website": "https://www.tredicigradi.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3398092,
+          48.2047785
+        ]
+      },
+      "id": "node/3235042362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3266968166",
+        "addr:city": "Brunn am Gebirge",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "2345",
+        "addr:street": "Vierbatzstraße",
+        "amenity": "bar",
+        "contact:email": "l.lubich@inode.at",
+        "contact:phone": "+43 676 3163407",
+        "contact:website": "http://magnolia-bar.com",
+        "fixme": "Position prüfen",
+        "name": "Magnolia",
+        "opening_hours": "Fr-Sa 20:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2737881,
+          48.1135721
+        ]
+      },
+      "id": "node/3266968166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3296415382",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1100",
+        "addr:street": "Wienerbergstraße",
+        "amenity": "bar",
+        "email": "office@dasturm.at",
+        "fax": "+43 (0)1 / 607 65 00 - 50",
+        "name": "das Turm",
+        "opening_hours": "Mo-Fr 17:00-24:00",
+        "operator": "managed by msplus",
+        "phone": "+43 (0)1 / 607 65 00",
+        "website": "http://www.dasturm.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3467967,
+          48.1691032
+        ]
+      },
+      "id": "node/3296415382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3325473825",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10-12",
+        "addr:postcode": "1060",
+        "addr:street": "Gumpendorfer Straße",
+        "amenity": "bar",
+        "email": "info@ifdogsrunfree.com",
+        "name": "if dogs run free",
+        "opening_hours": "Mo-Th 17:00-01:00; Fr-Sa 17:00-03:00",
+        "operator": "Tzou Lubroth Fink Gastronomie KG",
+        "phone": "+43 1 9132 132",
+        "smoking": "no",
+        "website": "http://www.ifdogsrunfree.com",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3614561,
+          48.2005679
+        ]
+      },
+      "id": "node/3325473825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360763824",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "24",
+        "addr:postcode": "1080",
+        "addr:street": "Schlösselgasse",
+        "amenity": "bar",
+        "name": "The Underdog Bar",
+        "opening_hours": "Mo-Th 16:00-01:30; Fr 16:00-03:00; Sa 18:00-03:00",
+        "sport": "table_soccer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3532335,
+          48.2141366
+        ]
+      },
+      "id": "node/3360763824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360770299",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "1160",
+        "addr:street": "Lerchenfelder Gürtel",
+        "amenity": "bar",
+        "name": "Weberknecht",
+        "opening_hours": "Mo-Su 16:00-04:00",
+        "phone": "+43 1 9421502",
+        "sport": "table_soccer",
+        "website": "http://www.weberknecht.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3385611,
+          48.2102221
+        ]
+      },
+      "id": "node/3360770299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3360829687",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "21",
+        "addr:postcode": "1080",
+        "addr:street": "Skodagasse",
+        "amenity": "bar",
+        "capacity": "70",
+        "name": "Debakel",
+        "opening_hours": "Mo-Su 20:00-03:33",
+        "outdoor_seating": "yes",
+        "smoking": "isolated",
+        "sport": "table_soccer",
+        "website": "https://www.debakel.at",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3478424,
+          48.2146143
+        ]
+      },
+      "id": "node/3360829687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3371258561",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1060",
+        "addr:street": "Gumpendorfer Straße",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/marea.alta.at",
+        "contact:website": "http://marea-alta.at/",
+        "gay": "yes",
+        "lgbtq": "primary",
+        "name": "Marea Alta",
+        "opening_hours": "Mo-Th 19:00-02:00, Fr-Sa 19:00-04:00",
+        "sport": "table_soccer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3585181,
+          48.1990757
+        ]
+      },
+      "id": "node/3371258561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3387746826",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1010",
+        "addr:street": "Rudolfsplatz",
+        "amenity": "bar",
+        "contact:phone": "+43 650 3149072",
+        "contact:website": "http://www.barandmore.at",
+        "name": "Bar & More",
+        "opening_hours": "Mo-Th 15:00+; PH,Su off; Sa \"Auf Reservierung\""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.371967,
+          48.2148113
+        ]
+      },
+      "id": "node/3387746826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3387746827",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1010",
+        "addr:street": "Heinrichsgasse",
+        "amenity": "bar",
+        "contact:email": "rudolfsplatz@pannonisch.at",
+        "contact:phone": "+43 664 88345150",
+        "contact:website": "http://www.pannonisch.at",
+        "name": "Michael's Bier-& Weinbar",
+        "opening_hours": "Mo-Fr 16:00-24:00; PH off",
+        "website": "http://www.michaels-bar.at/",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3718776,
+          48.2150599
+        ]
+      },
+      "id": "node/3387746827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3425523135",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "155",
+        "addr:postcode": "1090",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "description": "Cocktail Bar",
+        "name": "Halbestadt",
+        "opening_hours": "Mo-Th 19:00-02:00; Fr-Sa 19:00-04:00",
+        "phone": "+43 1 319 47 35",
+        "website": "http://www.halbestadt.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3503878,
+          48.229568
+        ]
+      },
+      "id": "node/3425523135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3425594713",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "104-106",
+        "addr:postcode": "1090",
+        "addr:street": "Liechtensteinstraße",
+        "amenity": "bar",
+        "description": "Cocktail Bar",
+        "email": "office@thesignlounge.at",
+        "name": "The Sign",
+        "opening_hours": "Mo-Su 18:00+",
+        "phone": "+43 664 964 32 76",
+        "website": "https://www.thesignlounge.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3562844,
+          48.229683
+        ]
+      },
+      "id": "node/3425594713"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3461140513",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6d",
+        "addr:postcode": "1090",
+        "addr:street": "Nordbergstraße",
+        "amenity": "bar",
+        "email": "diebar@event-bar-elfuego.at",
+        "name": "El Fuego",
+        "opening_hours": "Tu-Th 16:00-22:00; Su, Mo, PH closed",
+        "outdoor_seating": "yes",
+        "phone": "+43 (0)676 / 633 20 33",
+        "smoking": "yes",
+        "website": "http://event-bar-elfuego.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3622679,
+          48.226742
+        ]
+      },
+      "id": "node/3461140513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3461389414",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housename": "Restaurant",
+        "addr:housenumber": "1",
+        "addr:postcode": "1210",
+        "addr:street": "An der Neuen Donau",
+        "amenity": "bar",
+        "cuisine": "regional",
+        "name": "USUS am Wasser",
+        "opening_hours": "Th-Su 10:30-22:30",
+        "opening_hours:covid19": "restricted",
+        "source": "own",
+        "website": "https://www.amwasser.wien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.398665,
+          48.2409906
+        ]
+      },
+      "id": "node/3461389414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3461830768",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1010",
+        "addr:street": "Marc-Aurel-Straße",
+        "amenity": "bar",
+        "contact:website": "http://www.gruenerkakadu.at",
+        "name": "Grüner Kakadu",
+        "opening_hours": "Mo-Sa 17:00-03:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3736862,
+          48.212272
+        ]
+      },
+      "id": "node/3461830768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3489171246",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1010",
+        "addr:street": "Eschenbachgasse",
+        "amenity": "bar",
+        "name": "Unique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3634874,
+          48.2027375
+        ]
+      },
+      "id": "node/3489171246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3509894396",
+        "amenity": "bar",
+        "name": "2Lounge",
+        "opening_hours": "Mo-Th 12:00-01:00; Fr-Sa 12:00-14:00; Su 14:00-00:00",
+        "phone": "+43 699 10020061",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3872136,
+          48.2159756
+        ]
+      },
+      "id": "node/3509894396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3512205710",
+        "amenity": "bar",
+        "name": "Porto Pollo",
+        "website": "https://www.facebook.com/portopollo.vienna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4063056,
+          48.2303154
+        ]
+      },
+      "id": "node/3512205710"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3515938930",
+        "amenity": "bar",
+        "name": "Leopoldistüberl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3765333,
+          48.2194138
+        ]
+      },
+      "id": "node/3515938930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3517310472",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1070",
+        "addr:street": "Kirchberggasse",
+        "amenity": "bar",
+        "condition": "good",
+        "name": "Bukowski the Pub",
+        "opening_hours": "Mo-Su 15:00-06:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3562912,
+          48.2028547
+        ]
+      },
+      "id": "node/3517310472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3532940644",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "1150",
+        "addr:street": "Märzstraße",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/flaegship/",
+        "contact:website": "http://www.brauhund.com",
+        "name": "Flægship Rudolfsheim",
+        "opening_hours": "Mo-Sa 17:00-02:00; Su 15:00-02:00",
+        "smoking": "no",
+        "sport": "table_soccer",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3325718,
+          48.1993909
+        ]
+      },
+      "id": "node/3532940644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3558570335",
+        "amenity": "bar",
+        "name": "Pub Klemo am Wasser",
+        "opening_hours": "Mo-Fr 16:00-23:00; Sa-Su 14:00-23:00",
+        "shop": "wine",
+        "website": "https://www.pubklemo.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3822057,
+          48.2116029
+        ]
+      },
+      "id": "node/3558570335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3623088241",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "110",
+        "addr:postcode": "1050",
+        "addr:street": "Schönbrunner Straße",
+        "amenity": "bar",
+        "name": "Vespici Veri",
+        "opening_hours": "Tu-Sa 18:00-01:00",
+        "operator": "Markus Schneebeck",
+        "phone": "+43 676 754 44 42",
+        "shop": "car_repair",
+        "smoking": "outside",
+        "website": "http://www.vespiciveri.at",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3464592,
+          48.1884306
+        ]
+      },
+      "id": "node/3623088241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3642077698",
+        "amenity": "bar",
+        "name": "Fania"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3356142,
+          48.2139589
+        ]
+      },
+      "id": "node/3642077698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645208582",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1010",
+        "addr:street": "Postgasse",
+        "amenity": "bar",
+        "contact:website": "http://www.postgasse11.com",
+        "name": "Rainers Bar",
+        "opening_hours": "Mo-Fr 16:00+",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3785201,
+          48.209582
+        ]
+      },
+      "id": "node/3645208582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645208588",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1010",
+        "addr:street": "Fleischmarkt",
+        "amenity": "bar",
+        "name": "Vinogin",
+        "opening_hours": "Mo-Fr 17:00-24:00; Sa 06:00-12:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3788176,
+          48.2099107
+        ]
+      },
+      "id": "node/3645208588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3645208589",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1010",
+        "addr:street": "Laurenzerberg",
+        "amenity": "bar",
+        "contact:website": "http://www.w-einkehr.at",
+        "name": "Vinothek W-Einkehr",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3778792,
+          48.2105796
+        ]
+      },
+      "id": "node/3645208589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3675375731",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "72",
+        "addr:postcode": "1150",
+        "addr:street": "Beckmanngasse",
+        "amenity": "bar",
+        "name": "Vienna Globe Trampers Headquarter",
+        "opening_hours": "We,Fr 18:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3143564,
+          48.1982814
+        ]
+      },
+      "id": "node/3675375731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3682024831",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1070",
+        "addr:street": "Hermanngasse",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/acabarwien/",
+        "name": "Acabar",
+        "opening_hours": "TU-SA 17:00-02:00",
+        "outdoor_seating": "no",
+        "payment:cash": "only",
+        "phone": "+431 990 80 24",
+        "smoking": "yes",
+        "toilets:wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3468921,
+          48.2010188
+        ]
+      },
+      "id": "node/3682024831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759218459",
+        "amenity": "bar",
+        "name": "Bar Babalu",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3307025,
+          48.185822
+        ]
+      },
+      "id": "node/3759218459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3759222636",
+        "amenity": "bar",
+        "name": "Walhalla Motorradclub"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3328887,
+          48.1868059
+        ]
+      },
+      "id": "node/3759222636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3789312658",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "1040",
+        "addr:street": "Operngasse",
+        "amenity": "bar",
+        "name": "Cafe Nest",
+        "opening_hours": "Tu-Su 10:00-24:00",
+        "smoking": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3660323,
+          48.1974109
+        ]
+      },
+      "id": "node/3789312658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3794006165",
+        "addr:city": "Wien",
+        "addr:housenumber": "50",
+        "addr:postcode": "1160",
+        "addr:street": "Ottakringer Straße",
+        "amenity": "bar",
+        "name": "Club Wien West Zøne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3343357,
+          48.2146956
+        ]
+      },
+      "id": "node/3794006165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3796926372",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1060",
+        "addr:street": "Esterházygasse",
+        "amenity": "bar",
+        "name": "Miranda",
+        "opening_hours": "Mo-Th 18:00-02:00; Fr-Sa 18:00-03:00",
+        "phone": "+ 43 1 9528794",
+        "website": "http://www.mirandabar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3518108,
+          48.1951404
+        ]
+      },
+      "id": "node/3796926372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3853297525",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1010",
+        "addr:street": "Salzgries",
+        "amenity": "bar",
+        "name": "The Look Bar",
+        "opening_hours": "18:00-04:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.370966,
+          48.2132753
+        ]
+      },
+      "id": "node/3853297525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3886530194",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1010",
+        "addr:street": "Franziskanerplatz",
+        "amenity": "bar",
+        "name": "Tramezzini Bar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3745463,
+          48.2067265
+        ]
+      },
+      "id": "node/3886530194"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3894592155",
+        "amenity": "bar",
+        "name": "Franz von Hahn",
+        "opening_hours": "Mo-Fr 18:00-02:00, Sa 19:00-02:00, Su 19:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3819396,
+          48.2177094
+        ]
+      },
+      "id": "node/3894592155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3929688461",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "1160",
+        "addr:street": "Ottakringer Straße",
+        "amenity": "bar",
+        "name": "Cafe Monaco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3364637,
+          48.2146823
+        ]
+      },
+      "id": "node/3929688461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3934158869",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "1170",
+        "addr:street": "Kalvarienberggasse",
+        "amenity": "bar",
+        "name": "For You"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3330607,
+          48.2205002
+        ]
+      },
+      "id": "node/3934158869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3956744441",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1210",
+        "addr:street": "Prager Straße",
+        "amenity": "bar",
+        "name": "Star Voice Lounge",
+        "opening_hours": "Mo-Sa 19:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3955848,
+          48.2602311
+        ]
+      },
+      "id": "node/3956744441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3964578496",
+        "amenity": "bar",
+        "email": "wirtin@schwirtz.at",
+        "name": "Schwirtz",
+        "opening_hours": "Mo-Sa 17:00+",
+        "operator": "Firma Schwirtz KG",
+        "outdoor_seating": "yes",
+        "smoking": "no",
+        "website": "https://www.visavisvolksoper.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3506702,
+          48.2240998
+        ]
+      },
+      "id": "node/3964578496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4068343023",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28-32",
+        "addr:postcode": "1070",
+        "addr:street": "Burggasse",
+        "amenity": "bar",
+        "condition": "fair",
+        "contact:phone": "004319423272",
+        "contact:website": "http://www.lizardpub.at",
+        "name": "The Lizard - Pub & Billards",
+        "opening_hours": "Mo-Su 16:00-02:00",
+        "outdoor_seating": "no",
+        "smoking": "isolated",
+        "website": "https://www.lizardpub.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3513618,
+          48.2043113
+        ]
+      },
+      "id": "node/4068343023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4088782472",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "1070",
+        "addr:street": "Halbgasse",
+        "amenity": "bar",
+        "name": "Fortuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3416728,
+          48.2040983
+        ]
+      },
+      "id": "node/4088782472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4088783008",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1070",
+        "addr:street": "Halbgasse",
+        "amenity": "bar",
+        "name": "Frivoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3414649,
+          48.2040125
+        ]
+      },
+      "id": "node/4088783008"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4090395118",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1030",
+        "addr:street": "Hintzerstraße",
+        "amenity": "bar",
+        "name": "Ströck Feierabend",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3927956,
+          48.2004179
+        ]
+      },
+      "id": "node/4090395118"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096883256",
+        "amenity": "bar",
+        "name": "Admiral",
+        "opening_hours": "Mo-Su 08:00-24:00",
+        "operator": "Admiral Sportwetten",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3666209,
+          48.1998096
+        ]
+      },
+      "id": "node/4096883256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096953592",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "20a",
+        "addr:postcode": "1040",
+        "addr:street": "Operngasse",
+        "amenity": "bar",
+        "name": "Tipico",
+        "operator": "Tipico"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3664554,
+          48.1993873
+        ]
+      },
+      "id": "node/4096953592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4096953621",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1040",
+        "addr:street": "Faulmanngasse",
+        "amenity": "bar",
+        "name": "Wiener Blut"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3651722,
+          48.1988562
+        ]
+      },
+      "id": "node/4096953621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100007717",
+        "amenity": "bar",
+        "name": "Club 9 Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3985405,
+          48.2207068
+        ]
+      },
+      "id": "node/4100007717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100026438",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "103",
+        "addr:postcode": "1070",
+        "addr:street": "Burggasse",
+        "amenity": "bar",
+        "name": "Kiez"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3412277,
+          48.2042084
+        ]
+      },
+      "id": "node/4100026438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100027617",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "112",
+        "addr:postcode": "1070",
+        "addr:street": "Burggasse",
+        "amenity": "bar",
+        "name": "Peep Show"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3413377,
+          48.2044131
+        ]
+      },
+      "id": "node/4100027617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100050864",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "26",
+        "addr:postcode": "1070",
+        "addr:street": "Kandlgasse",
+        "amenity": "bar",
+        "name": "Hollywood"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.341862,
+          48.2028874
+        ]
+      },
+      "id": "node/4100050864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100094489",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "67-69",
+        "addr:postcode": "1070",
+        "addr:street": "Kaiserstraße",
+        "amenity": "bar",
+        "name": "K69"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3399978,
+          48.2037061
+        ]
+      },
+      "id": "node/4100094489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100575549",
+        "amenity": "bar",
+        "name": "plava laguna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3988814,
+          48.2196446
+        ]
+      },
+      "id": "node/4100575549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100575557",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "22",
+        "addr:postcode": "1020",
+        "addr:street": "Wolfgang-Schmälzl-Gasse",
+        "amenity": "bar",
+        "name": "Zur Legende",
+        "outdoor_seating": "yes",
+        "sport": "darts"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3989954,
+          48.2194033
+        ]
+      },
+      "id": "node/4100575557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100575561",
+        "amenity": "bar",
+        "name": "Marion's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3986313,
+          48.2181903
+        ]
+      },
+      "id": "node/4100575561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4100575577",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "1020",
+        "addr:street": "Stuwerstraße",
+        "amenity": "bar",
+        "contact:email": "praterlounge@gmx.at",
+        "contact:facebook": "https://www.facebook.com/Praterlounge/",
+        "contact:phone": "+43 676 7919637",
+        "description": "Shisha Lounge",
+        "name": "Prater Lounge",
+        "note": "Vormals Cafe Nuki",
+        "old_name": "Café Nuki",
+        "opening_hours": "Mo-Th 13:00-02:00; Fr 14:00-02:00; Sa Su 15:00-02:00",
+        "payment:cash": "yes",
+        "payment:credit_cards": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3989471,
+          48.2189154
+        ]
+      },
+      "id": "node/4100575577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4111851445",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1090",
+        "addr:street": "Thurngasse",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Café Lassa",
+        "opening_hours": "Mo-Sa 18:00-01:00, Su 18:00-00:00",
+        "phone": "+43676/963-7795",
+        "smoking": "yes",
+        "toilets:wheelchair": "no",
+        "website": "https://www.facebook.com/CafeLassa",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3614538,
+          48.2194858
+        ]
+      },
+      "id": "node/4111851445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4116304263",
+        "amenity": "bar",
+        "gay": "yes",
+        "name": "Mango"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3605628,
+          48.1978747
+        ]
+      },
+      "id": "node/4116304263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4116304264",
+        "amenity": "bar",
+        "name": "Tonstube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3604556,
+          48.1980238
+        ]
+      },
+      "id": "node/4116304264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4118542488",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "C8",
+        "addr:postcode": "1060",
+        "addr:street": "Naschmarkt",
+        "amenity": "bar",
+        "name": "Weinkeller",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3636053,
+          48.1988043
+        ]
+      },
+      "id": "node/4118542488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4141815826",
+        "amenity": "bar",
+        "name": "Sektcomptoir Szigeti",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3732441,
+          48.211195
+        ]
+      },
+      "id": "node/4141815826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4144713221",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "38A",
+        "addr:postcode": "1220",
+        "addr:street": "Erzherzog-Karl-Straße",
+        "amenity": "bar",
+        "name": "Lounge22",
+        "opening_hours": "Tu-Su 16:00-01:00",
+        "operator": "Andreas Zeinlinger",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4371988,
+          48.2361958
+        ]
+      },
+      "id": "node/4144713221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4146280172",
+        "amenity": "bar",
+        "name": "Figar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3746383,
+          48.2155251
+        ]
+      },
+      "id": "node/4146280172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4156396896",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Kurrentgasse",
+        "amenity": "bar",
+        "contact:website": "http://www.meetbar.at",
+        "name": "Meetbar",
+        "note": "An der Tür steht, abweichend von der Website, 16:00-02:00",
+        "opening_hours": "Tu-Sa 17:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3700525,
+          48.2112843
+        ]
+      },
+      "id": "node/4156396896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4188012103",
+        "addr:city": "Perchtoldsdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "2380",
+        "addr:street": "Walzengasse",
+        "amenity": "bar",
+        "name": "Karli's Lounge Bar",
+        "opening_hours": "Mo,Tu,Th,Fr 17:00-24:00",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.263467,
+          48.1218267
+        ]
+      },
+      "id": "node/4188012103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234488293",
+        "amenity": "bar",
+        "name": "Drings",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3709701,
+          48.2017407
+        ]
+      },
+      "id": "node/4234488293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234492091",
+        "amenity": "bar",
+        "name": "Vulcania",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3738887,
+          48.2117928
+        ]
+      },
+      "id": "node/4234492091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234514090",
+        "amenity": "bar",
+        "name": "King's",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3741026,
+          48.2118922
+        ]
+      },
+      "id": "node/4234514090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234524789",
+        "amenity": "bar",
+        "name": "Mittelstation",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3746157,
+          48.2117514
+        ]
+      },
+      "id": "node/4234524789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234524790",
+        "amenity": "bar",
+        "name": "Non+ultra",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.374501,
+          48.2117626
+        ]
+      },
+      "id": "node/4234524790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4234524889",
+        "amenity": "bar",
+        "name": "Morgans",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3739915,
+          48.2119775
+        ]
+      },
+      "id": "node/4234524889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4239915089",
+        "amenity": "bar",
+        "name": "Colosseum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3240709,
+          48.1861738
+        ]
+      },
+      "id": "node/4239915089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4239973192",
+        "amenity": "bar",
+        "name": "1010 Bar Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3702788,
+          48.2063414
+        ]
+      },
+      "id": "node/4239973192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4249094989",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "1160",
+        "addr:street": "Speckbachergasse",
+        "amenity": "bar",
+        "name": "beimir",
+        "opening_hours": "Tu-Sa 19:00-01:00",
+        "outdoor_seating": "yes",
+        "phone": "+436503666700",
+        "website": "https://www.beimir.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3170466,
+          48.2180486
+        ]
+      },
+      "id": "node/4249094989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4264226302",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "27",
+        "addr:postcode": "1220",
+        "addr:street": "Gartenheimstraße",
+        "amenity": "bar",
+        "name": "Livin'Room27",
+        "smoking": "separated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5296122,
+          48.2162242
+        ]
+      },
+      "id": "node/4264226302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4282123032",
+        "amenity": "bar",
+        "note": "Admiral Sportsbar",
+        "operator": "Admiral"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2950027,
+          48.1458051
+        ]
+      },
+      "id": "node/4282123032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4342955232",
+        "amenity": "bar",
+        "name": "The Tube Station",
+        "opening_hours": "18:00 - 01:00",
+        "phone": "+43 660 6182000",
+        "website": "http://www.thetubestation.at",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3945636,
+          48.2061931
+        ]
+      },
+      "id": "node/4342955232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4348217489",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1010",
+        "addr:street": "Werdertorgasse",
+        "amenity": "bar",
+        "name": "The Office",
+        "smoking": "yes",
+        "website": "http://www.theoffice.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3697713,
+          48.2147108
+        ]
+      },
+      "id": "node/4348217489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4382582793",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1010",
+        "addr:street": "Operngasse",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Bier & Bierli",
+        "opening_hours": "Mo-Su 11:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3675457,
+          48.20214
+        ]
+      },
+      "id": "node/4382582793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396476852",
+        "access": "private",
+        "amenity": "bar",
+        "level": "-1",
+        "name": "Kesselbar",
+        "operator": "Metastadt",
+        "website": "https://www.metastadt.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.454269,
+          48.231751
+        ]
+      },
+      "id": "node/4396476852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4409872291",
+        "amenity": "bar",
+        "fixme": "name"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4404144,
+          48.2451026
+        ]
+      },
+      "id": "node/4409872291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4448076688",
+        "amenity": "bar",
+        "contact:website": "http://www.holzwurm-pdorf.at",
+        "name": "Holzwurm",
+        "opening_hours": "Tu-Sa 19:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2643634,
+          48.1208084
+        ]
+      },
+      "id": "node/4448076688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4520460041",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "1010",
+        "addr:street": "Biberstraße",
+        "amenity": "bar",
+        "name": "Sofie's Bar",
+        "opening_hours": "Tu-Th 17:00 - 01:00; Fr-Sa 20:00 - 04:00",
+        "operator": "Veranstaltungs-Werkstatt G.m.b.H."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3807586,
+          48.2089241
+        ]
+      },
+      "id": "node/4520460041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4551006234",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1-3",
+        "addr:postcode": "1070",
+        "addr:street": "Lerchenfelder Straße",
+        "amenity": "bar",
+        "level": "Dachboden",
+        "name": "25hours Dachboden",
+        "opening_hours": "Mo-Su 15:00-01:00",
+        "operator": "25hours Hotel",
+        "phone": "+43 15 21 51 0",
+        "smoking": "outside",
+        "toilets:wheelchair": "yes",
+        "website": "http://www.25hours-hotels.com/de/museumsquartier/restaurant/25hours-dachboden.html",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3546782,
+          48.2063708
+        ]
+      },
+      "id": "node/4551006234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4557268307",
+        "amenity": "bar",
+        "name": "Hendricks Sportsbar",
+        "opening_hours": "Mo-Fr 10:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3925536,
+          48.2182231
+        ]
+      },
+      "id": "node/4557268307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561779473",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1010",
+        "addr:street": "Bäckerstraße",
+        "amenity": "bar",
+        "name": "Weinorgel",
+        "opening_hours": "Mo-Th 16:00-02:00, Fr-Sa 16:00-03:00, Su 16:00-24:00",
+        "phone": "+43 1 5131227",
+        "smoking": "yes",
+        "website": "https://www.weinorgel.at/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3750381,
+          48.2095315
+        ]
+      },
+      "id": "node/4561779473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4568409920",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "20",
+        "addr:postcode": "1070",
+        "addr:street": "Kirchengasse",
+        "amenity": "bar",
+        "name": "Die Dondrine",
+        "opening_hours": "Mo-Sa 18:00-04:00",
+        "outdoor_seating": "no",
+        "smoking": "yes",
+        "website": "http://www.diedondrine.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3522603,
+          48.2012957
+        ]
+      },
+      "id": "node/4568409920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4580075563",
+        "amenity": "bar",
+        "name": "Feivel's",
+        "opening_hours": "Mo-Sa 18:00-02:00",
+        "website": "http://www.feivels.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3430597,
+          48.2130711
+        ]
+      },
+      "id": "node/4580075563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4602682592",
+        "amenity": "bar",
+        "contact:website": "http://www.iltoro.at",
+        "name": "Il Toro",
+        "opening_hours": "Mo-We 11:00-24:00; Th-Fr 11:00+; Sa 18:00+ || Sa-Su \"Auf Anfrage\"",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3713603,
+          48.2147257
+        ]
+      },
+      "id": "node/4602682592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4614431074",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "24",
+        "addr:postcode": "1170",
+        "addr:street": "Veronikagasse",
+        "amenity": "bar",
+        "designation": "art club",
+        "name": "Vronihof",
+        "wifi": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3386793,
+          48.2145044
+        ]
+      },
+      "id": "node/4614431074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4630791640",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1160",
+        "addr:street": "Yppenmarkt",
+        "amenity": "bar",
+        "name": "Wirr am Brunnenmarkt",
+        "opening_hours": "Mo-Sa 08:00-23:00",
+        "operator": "WIRR GmbH",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 4023098",
+        "website": "http://wirr.at",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3364574,
+          48.2134055
+        ]
+      },
+      "id": "node/4630791640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4674432261",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1190",
+        "addr:street": "Himmelstraße",
+        "amenity": "bar",
+        "email": "office@axelrot.at",
+        "name": "Buddy Red",
+        "opening_hours": "Mo-Fr 18:30+; Sa,Su,PH off",
+        "phone": "+43 664 3203243"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3421319,
+          48.2555669
+        ]
+      },
+      "id": "node/4674432261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4690203789",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1090",
+        "addr:street": "Nordbergstraße",
+        "amenity": "bar",
+        "name": "Grind",
+        "name:de": "Grind",
+        "name:en": "Grind",
+        "website": "http://www.grind.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3617738,
+          48.2275994
+        ]
+      },
+      "id": "node/4690203789"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4710825003",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1060",
+        "addr:street": "Blümelgasse",
+        "alt_name": "Eagle",
+        "amenity": "bar",
+        "audience": "gay",
+        "gay": "yes",
+        "name": "Eagle Bar",
+        "name:de": "Eagle Bar",
+        "opening_hours": "Mo-Su 21:00-04:00",
+        "phone": "+43 (0)1 587 26 61",
+        "website": "https://www.eagle-vienna.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3517739,
+          48.196961
+        ]
+      },
+      "id": "node/4710825003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4730218391",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "125",
+        "addr:postcode": "1220",
+        "addr:street": "Wagramer Straße",
+        "amenity": "bar",
+        "name": "Kagraner Kistl",
+        "name:de": "Kagraner Kistl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4411915,
+          48.2477953
+        ]
+      },
+      "id": "node/4730218391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4739517170",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "1190",
+        "addr:street": "Billrothstraße",
+        "amenity": "bar",
+        "contact:website": "http://www.slubar.at",
+        "name": "SLU-Bar",
+        "old_name": "Misfits",
+        "opening_hours": "Tu-Sa 20:00+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3494061,
+          48.2360663
+        ]
+      },
+      "id": "node/4739517170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4754572221",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "15",
+        "addr:postcode": "1070",
+        "addr:street": "Zollergasse",
+        "amenity": "bar",
+        "name": "Ganz Wien",
+        "opening_hours": "Mo-Th 16:00-24:00; Fr-Su 12:00-02:00",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3506961,
+          48.1997809
+        ]
+      },
+      "id": "node/4754572221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4831173457",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "70",
+        "addr:postcode": "1150",
+        "addr:street": "Goldschlagstraße",
+        "amenity": "bar",
+        "contact:website": "salon.goldschlag.at",
+        "designation": "art club",
+        "name": "Salon Goldschlag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3243842,
+          48.1959064
+        ]
+      },
+      "id": "node/4831173457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4836398848",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1010",
+        "addr:street": "Postgasse",
+        "amenity": "bar",
+        "name": "Azul Bar",
+        "opening_hours": "18:00-04:00",
+        "outdoor_seating": "no",
+        "phone": "+43 676 3571311",
+        "smoking": "no",
+        "website": "https://www.facebook.com/azulbarwien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3788961,
+          48.2082223
+        ]
+      },
+      "id": "node/4836398848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4837956799",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "107",
+        "addr:postcode": "1180",
+        "addr:street": "Währinger Gürtel",
+        "amenity": "bar",
+        "description": "Bar - Lounge",
+        "entrance": "yes",
+        "name": "Karton 107",
+        "opening_hours": "Mo-We 17:00-24:00,00:00-01:00; Th 00:00-01:00,17:00-24:00; Fr 00:00-01:00,17:00-24:00; Sa 00:00-02:00,17:00-24:00; Su 00:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3496518,
+          48.2284298
+        ]
+      },
+      "id": "node/4837956799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4858599399",
+        "amenity": "bar",
+        "name": "Stresssbar",
+        "note": "Really 3 s-es!",
+        "opening_hours": "Mo-Sa 12:00-00:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3671271,
+          48.2134031
+        ]
+      },
+      "id": "node/4858599399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4874643715",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "39-40",
+        "addr:postcode": "1080",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "name": "Kramladen",
+        "opening_hours": "Mo, Tu 20:00-04:00; We-Sa 20:00-06:00",
+        "phone": "+43 699 12185177",
+        "website": "https://www.facebook.com/kramladen.wien/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3390894,
+          48.2108759
+        ]
+      },
+      "id": "node/4874643715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4901603318",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1020",
+        "addr:street": "Calafattiplatz",
+        "amenity": "bar",
+        "name": "The Bar",
+        "outdoor_seating": "yes",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3992044,
+          48.2171211
+        ]
+      },
+      "id": "node/4901603318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4959779021",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1060",
+        "addr:street": "Joanelligasse",
+        "amenity": "bar",
+        "name": "Einhorn",
+        "phone": "+43 1 5863212"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3567871,
+          48.1976529
+        ]
+      },
+      "id": "node/4959779021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009473111",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1040",
+        "addr:street": "Kolschitzkygasse",
+        "amenity": "bar",
+        "name": "Tuk Tuk",
+        "opening_hours": "Mo-Su 18:00-06:00",
+        "phone": "+43 681 20614968",
+        "website": "http://www.tuktukbar.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3714901,
+          48.1877455
+        ]
+      },
+      "id": "node/5009473111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5026447764",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "125",
+        "addr:postcode": "1050",
+        "addr:street": "Margaretenstraße",
+        "amenity": "bar",
+        "level": "0",
+        "name": "Capoeira Bar",
+        "opening_hours": "11:00-04:00",
+        "outdoor_seating": "yes",
+        "phone": "+43 676 6527272"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3524177,
+          48.1877158
+        ]
+      },
+      "id": "node/5026447764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5082229329",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "22-23",
+        "addr:postcode": "1080",
+        "addr:street": "Stadtbahnbogen",
+        "amenity": "bar",
+        "name": "Fania Live",
+        "outdoor_seating": "yes",
+        "smoking": "isolated",
+        "website": "https://www.fanialive.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3387648,
+          48.2090347
+        ]
+      },
+      "id": "node/5082229329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5102542622",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1010",
+        "addr:street": "Graben",
+        "amenity": "bar",
+        "drink:wine": "yes",
+        "name": "Meinl's Wine Bar",
+        "shop": "alcohol",
+        "website": "https://www.meinlamgraben.at/Gastronomie/Meinls-Weinbar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3683207,
+          48.2097156
+        ]
+      },
+      "id": "node/5102542622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5154256720",
+        "amenity": "bar",
+        "contact:website": "http://www.mundart.wien",
+        "name": "Mundart",
+        "opening_hours": "Tu-Th 16:00-02:00, Fr-Sa 16:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3744944,
+          48.2040904
+        ]
+      },
+      "id": "node/5154256720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5156192591",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "70",
+        "addr:postcode": "1190",
+        "addr:street": "Grinzinger Straße",
+        "amenity": "bar",
+        "description": "Loungebar",
+        "name": "Aristo Bar",
+        "opening_hours": "Mo-Sa 21:00-04:00",
+        "operator": "Rucki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3537061,
+          48.2535967
+        ]
+      },
+      "id": "node/5156192591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5162810464",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "62",
+        "addr:postcode": "1190",
+        "addr:street": "Gymnasiumstraße",
+        "amenity": "bar",
+        "name": "Mozart & Meisl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3488892,
+          48.2355246
+        ]
+      },
+      "id": "node/5162810464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5166420467",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "46",
+        "addr:postcode": "1040",
+        "addr:street": "Wiedner Gürtel",
+        "amenity": "bar",
+        "name": "Singletreff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3724252,
+          48.1859492
+        ]
+      },
+      "id": "node/5166420467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5167185959",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "124",
+        "addr:postcode": "1070",
+        "addr:street": "Burggasse",
+        "amenity": "bar",
+        "name": "Cafe Burg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3390246,
+          48.2044366
+        ]
+      },
+      "id": "node/5167185959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5195967695",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "139",
+        "addr:postcode": "1070",
+        "addr:street": "Neustiftgasse",
+        "amenity": "bar",
+        "description": "Erotische Cocktailbar",
+        "name": "Element 6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3393855,
+          48.2059254
+        ]
+      },
+      "id": "node/5195967695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5209471521",
+        "amenity": "bar",
+        "name": "Cafe InJoy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3388463,
+          48.2022694
+        ]
+      },
+      "id": "node/5209471521"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5224769335",
+        "amenity": "bar",
+        "brothel": "yes",
+        "name": "City Studio",
+        "opening_hours": "Mo-Fr 10:00-22:00; Sa Su PH 12:00-20:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3696002,
+          48.2127604
+        ]
+      },
+      "id": "node/5224769335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5235996506",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "38a",
+        "addr:postcode": "1020",
+        "addr:street": "Novaragasse",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Kerstin",
+        "opening_hours": "Mo-Sa 13:00+; Su 20:00+",
+        "phone": "+43 1 219662",
+        "website": "http://kerstinbar.wixsite.com/kerstin/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3874079,
+          48.2182517
+        ]
+      },
+      "id": "node/5235996506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5236410577",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "168",
+        "addr:postcode": "1090",
+        "addr:street": "U-Bahn-Bogen",
+        "amenity": "bar",
+        "contact:facebook": "https://www.facebook.com/shishita.club/",
+        "contact:website": "http://www.shishita.at",
+        "name": "ShiShita",
+        "opening_hours": "Su-Th 14:00-02:00; Fr,Sa 14:00-04:00",
+        "smoking": "dedicated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3513328,
+          48.2308523
+        ]
+      },
+      "id": "node/5236410577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5275245297",
+        "amenity": "bar",
+        "contact:email": "hallo@feuerdorf.at",
+        "contact:facebook": "https://www.facebook.com/feuerdorf",
+        "contact:phone": "+43 1 934 6730",
+        "contact:website": "http://www.feuerdorf.at",
+        "name": "Feuerdorf Salettl",
+        "opening_hours": "Mo-Su 11:30-00:00",
+        "operator": "Feuerdorf, Hannes Strobl",
+        "outdoor_seating": "no",
+        "smoking": "outside",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3736426,
+          48.215466
+        ]
+      },
+      "id": "node/5275245297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5292422764",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1020",
+        "addr:street": "Hollandstraße",
+        "amenity": "bar",
+        "email": "hallo@basz-bar.at",
+        "level": "0;-1",
+        "name": "Basz Bar",
+        "opening_hours": "Mo-Sa 17:00-02:00",
+        "operator": "Peter Basziszta",
+        "outdoor_seating": "yes",
+        "phone": "+43 676 4283678",
+        "website": "http://www.basz-bar.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3764453,
+          48.2155552
+        ]
+      },
+      "id": "node/5292422764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5299907418",
+        "amenity": "bar",
+        "name": "Drakon",
+        "toilets:wheelchair": "no",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3778391,
+          48.2099526
+        ]
+      },
+      "id": "node/5299907418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5316213640",
+        "amenity": "bar",
+        "name": "Vitaminbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3147674,
+          48.1989436
+        ]
+      },
+      "id": "node/5316213640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5332175424",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1070",
+        "amenity": "bar",
+        "cuisine": "tapas",
+        "internet_access": "wlan",
+        "name": "Rinkhy Delikatessin Bar",
+        "name:de": "Rinkhy Delikatessin Bar",
+        "name:en": "Rinkhy Delikatessin Bar",
+        "opening_hours": "Mo-Sa 17:30-24:00",
+        "phone": "+43 650 7399269",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3448585,
+          48.2023032
+        ]
+      },
+      "id": "node/5332175424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333063962",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "30",
+        "addr:postcode": "1020",
+        "addr:street": "Heinestraße",
+        "amenity": "bar",
+        "bar": "contact_bar",
+        "min_age": "18",
+        "name": "Ellys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.387249,
+          48.2191863
+        ]
+      },
+      "id": "node/5333063962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333480182",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "75",
+        "addr:postcode": "1160",
+        "addr:street": "Brunnengasse",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3368021,
+          48.2143945
+        ]
+      },
+      "id": "node/5333480182"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5333480183",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "55A",
+        "addr:postcode": "1160",
+        "addr:street": "Lerchenfelder Gürtel",
+        "amenity": "bar",
+        "min_age": "18",
+        "name": "Velvet Palace"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3384279,
+          48.21136
+        ]
+      },
+      "id": "node/5333480183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5338335021",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "74",
+        "addr:postcode": "1080",
+        "addr:street": "Lange Gasse",
+        "amenity": "bar",
+        "name": "The Birdyard",
+        "opening_hours": "Tu-Su 17:30-02:00",
+        "phone": "+4314024624",
+        "website": "http://www.thebirdyard.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3512119,
+          48.2142593
+        ]
+      },
+      "id": "node/5338335021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5403252845",
+        "amenity": "bar",
+        "name": "Hashtag 15",
+        "opening_hours": "Mo-Th 12:00-24:00, Fr,Sa 12:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.319368,
+          48.2000295
+        ]
+      },
+      "id": "node/5403252845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5427287147",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1090",
+        "addr:street": "Liechtenwerder Platz",
+        "amenity": "bar",
+        "facebook": "https://www.facebook.com/pubfrancais/",
+        "name": "Pub Français",
+        "opening_hours": "Mo-Su 17:00-01:00",
+        "phone": "+43 (0)1 3990670",
+        "website": "http://www.pubfrancais.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3563601,
+          48.2325495
+        ]
+      },
+      "id": "node/5427287147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5436245482",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "35–43",
+        "addr:postcode": "1110",
+        "addr:street": "Rinnböckstraße",
+        "amenity": "bar",
+        "description": "Bierpub; Snacks, Imbisse, Pfannengerichte und Pizza; Fr, Sa 21–2 Bacardi, Bourbon und Wodka € 2,–. Do, Fr 17–19 Happy Hour (Spritzer, Bier), Fr Karaoke (nur im Winter); Dartsturniere, Würfel- und Brettspiele, TV. Barbereich Raucher (ca. 30), restliches Lo",
+        "name": "Remi Demi",
+        "opening_hours": "Mo–Fr 14–2, Sa 17–2 (Fei geschlossen)",
+        "smoking": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4090809,
+          48.181836
+        ]
+      },
+      "id": "node/5436245482"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5492379775",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1090",
+        "addr:street": "Universitätsstraße",
+        "amenity": "bar",
+        "name": "Wachauer Weinstube"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3575397,
+          48.2146707
+        ]
+      },
+      "id": "node/5492379775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5506686918",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "6",
+        "addr:postcode": "1090",
+        "addr:street": "Lustkandlgasse",
+        "amenity": "bar",
+        "email": "shop@carlobahrer.com",
+        "name": "Inkognito",
+        "opening_hours": "Mo-Sa 19:30-04:00",
+        "phone": "01 3196588",
+        "website": "http://www.carlo-bahrer.com/inkognito.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.35084,
+          48.2246693
+        ]
+      },
+      "id": "node/5506686918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5569924022",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1010",
+        "addr:street": "Karlsplatz",
+        "amenity": "bar",
+        "cuisine": "burger;mexican",
+        "name": "Café Mendez",
+        "website": "http://www.mendez.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3699749,
+          48.200889
+        ]
+      },
+      "id": "node/5569924022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5586787421",
+        "amenity": "bar",
+        "name": "Roberto American Bar",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3713111,
+          48.2092696
+        ]
+      },
+      "id": "node/5586787421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5664809642",
+        "amenity": "bar",
+        "name": "Joker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3529129,
+          48.1897026
+        ]
+      },
+      "id": "node/5664809642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5709161124",
+        "amenity": "bar",
+        "contact:website": "https://www.kempinski.com/de/wien/palais-hansen/restaurant/26-east/",
+        "name": "26°East",
+        "opening_hours": "Mo-Su 17:00-02:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3689221,
+          48.216521
+        ]
+      },
+      "id": "node/5709161124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5718550121",
+        "amenity": "bar",
+        "name": "Bier Saloon",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3771928,
+          48.2111288
+        ]
+      },
+      "id": "node/5718550121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754639525",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Schubertring",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "Atmosphere Rooftop Bar",
+        "phone": "+43 1 31188",
+        "website": "http://www.ritzcarlton.com/de/hotels/europe/vienna/dining/atmosphere-rooftop-bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3764216,
+          48.2023819
+        ]
+      },
+      "id": "node/5754639525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5758888233",
+        "amenity": "bar",
+        "name": "Space Cafe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3314208,
+          48.2140566
+        ]
+      },
+      "id": "node/5758888233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5766190562",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "32",
+        "addr:postcode": "1210",
+        "addr:street": "Bründelgasse",
+        "amenity": "bar",
+        "name": "Buschenschank im Weingarten",
+        "operator": "Familie Kaminek",
+        "outdoor_seating": "yes",
+        "website": "wein.nummer5.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3992173,
+          48.3067358
+        ]
+      },
+      "id": "node/5766190562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5812632953",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "1010",
+        "addr:street": "Schulerstraße",
+        "amenity": "bar",
+        "name": "First American Bar",
+        "opening_hours": "Mo 17:00-24:00; Tu-Fr 00:00-02:00,17:00-24:00; Sa 00:00-03:00,18:00-24:00; Su 00:00-03:00",
+        "phone": "+43 1 513 22 07",
+        "website": "https://www.firstamericanbar.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3761592,
+          48.2079724
+        ]
+      },
+      "id": "node/5812632953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5857267100",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1060",
+        "amenity": "bar",
+        "email": "info@barflys.at",
+        "name": "Barfly's",
+        "phone": "+43 1 5860825",
+        "website": "https://barflys.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3490709,
+          48.1969146
+        ]
+      },
+      "id": "node/5857267100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5901290639",
+        "amenity": "bar",
+        "email": "wien@stadtboden.at",
+        "fixme": "opening_hours missing",
+        "name": "STADTBODEN",
+        "operator": "Dora Gastronomie-Beteiligung",
+        "outdoor_seating": "yes",
+        "phone": "+43 1 512 16 37",
+        "website": "http://stadtboden.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3713567,
+          48.2038459
+        ]
+      },
+      "id": "node/5901290639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5909438285",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1070",
+        "amenity": "bar",
+        "name": "the real white rabbit",
+        "opening_hours": "Th-Sa 20:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3471949,
+          48.2054897
+        ]
+      },
+      "id": "node/5909438285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6016353378",
+        "amenity": "bar",
+        "gay": "yes",
+        "name": "Red Carpet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3574004,
+          48.1970805
+        ]
+      },
+      "id": "node/6016353378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6017293780",
+        "amenity": "bar",
+        "website": "http://kontaktbazar.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3075865,
+          48.1935406
+        ]
+      },
+      "id": "node/6017293780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019712905",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1080",
+        "addr:street": "Schlösselgasse",
+        "amenity": "bar",
+        "name": "Achtundzwanzig"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3532118,
+          48.2145438
+        ]
+      },
+      "id": "node/6019712905"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019712906",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1070",
+        "amenity": "bar",
+        "name": "Agent Oscar",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3510252,
+          48.1991902
+        ]
+      },
+      "id": "node/6019712906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019712908",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1070",
+        "addr:street": "Gardegasse",
+        "amenity": "bar",
+        "name": "Matiki",
+        "opening_hours": "Mo-Th 18:00-02:00, Fr-Sa 18:00-03:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3550103,
+          48.2045111
+        ]
+      },
+      "id": "node/6019712908"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019712909",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1010",
+        "addr:street": "Färbergasse",
+        "amenity": "bar",
+        "name": "Needle Vinyl Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3689959,
+          48.2121881
+        ]
+      },
+      "id": "node/6019712909"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019712910",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1070",
+        "amenity": "bar",
+        "name": "Die Parfümerie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3443252,
+          48.2058095
+        ]
+      },
+      "id": "node/6019712910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6019766386",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1010",
+        "addr:street": "Singerstraße",
+        "amenity": "bar",
+        "name": "Kleinod",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3733019,
+          48.2075909
+        ]
+      },
+      "id": "node/6019766386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6030822788",
+        "amenity": "bar",
+        "name": "Joly's Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.362171,
+          48.2265212
+        ]
+      },
+      "id": "node/6030822788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6039060617",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "amenity": "bar",
+        "name": "Needle Vynil Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3689284,
+          48.2121721
+        ]
+      },
+      "id": "node/6039060617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6143770218",
+        "amenity": "bar",
+        "name": "Daiquiri Shotothek",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3734732,
+          48.2118168
+        ]
+      },
+      "id": "node/6143770218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6143770219",
+        "amenity": "bar",
+        "contact:website": "http://www.stehachterl-bar.at",
+        "name": "Stehachterl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3734578,
+          48.2116676
+        ]
+      },
+      "id": "node/6143770219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6143770221",
+        "amenity": "bar",
+        "name": "Valentina",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3737313,
+          48.2115916
+        ]
+      },
+      "id": "node/6143770221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6170701885",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1010",
+        "addr:street": "Petersplatz",
+        "amenity": "bar",
+        "internet_access": "wlan",
+        "name": "P.11",
+        "name:uk": "П.11",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3703802,
+          48.2092857
+        ]
+      },
+      "id": "node/6170701885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6233140116",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:door": "3-4",
+        "addr:housenumber": "14",
+        "addr:postcode": "1050",
+        "addr:street": "Zentagasse",
+        "amenity": "bar",
+        "brewery": "Kozel;Marchfelder_Storchenbräu",
+        "email": "office@tapete.bar",
+        "level": "0",
+        "name": "Tapete",
+        "opening_hours": "Mo-Sa 18:00-01:00",
+        "operator": "Tapete Bar KG",
+        "outdoor_seating": "yes",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+4319664346",
+        "start_date": "2016-03-05",
+        "website": "http://www.tapete.bar/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3601907,
+          48.1869921
+        ]
+      },
+      "id": "node/6233140116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6241174685",
+        "amenity": "bar",
+        "name": "Freddy's Weinstuberl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3568476,
+          48.226424
+        ]
+      },
+      "id": "node/6241174685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6264953188",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "19",
+        "addr:postcode": "1050",
+        "addr:street": "Ziegelofengasse",
+        "amenity": "bar",
+        "email": "speakeasyclubvienna@gmail.com",
+        "internet_access": "wlan",
+        "name": "Speakeasy Club",
+        "phone": "+436601177276",
+        "website": "https://www.speakeasy-club.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3621941,
+          48.1900054
+        ]
+      },
+      "id": "node/6264953188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6270516682",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1040",
+        "addr:street": "Rilkeplatz",
+        "amenity": "bar",
+        "cuisine": "bistro",
+        "name": "Porto",
+        "toilets:wheelchair": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3672083,
+          48.1976111
+        ]
+      },
+      "id": "node/6270516682"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6323882622",
+        "amenity": "bar",
+        "name": "Zum Bettelstudent",
+        "opening_hours": "Mo-Tu 11:00-24:00;We-Th 11:00-01:00;Fr-Sa 11:00-03:00;Su 11:00-24:00",
+        "website": "http://www.bettelstudent.at/",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3746895,
+          48.204043
+        ]
+      },
+      "id": "node/6323882622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6326749205",
+        "amenity": "bar",
+        "name": "Blaue Bar",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3699537,
+          48.2039403
+        ]
+      },
+      "id": "node/6326749205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6331569607",
+        "amenity": "bar",
+        "name": "Stadtbar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3679195,
+          48.2042415
+        ]
+      },
+      "id": "node/6331569607"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6333239844",
+        "amenity": "bar",
+        "name": "Salims",
+        "website": "http://salims.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373242,
+          48.2022478
+        ]
+      },
+      "id": "node/6333239844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6336080709",
+        "addr:city": "Wien",
+        "addr:housenumber": "44",
+        "addr:postcode": "1070",
+        "addr:street": "Burggasse",
+        "amenity": "bar",
+        "name": "Lazy Life",
+        "opening_hours": "Tu-Th 16:00-23:00; Fr 16:00-01:00, Sa 14:00-01:00",
+        "website": "http://www.lazylife.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3499595,
+          48.2043253
+        ]
+      },
+      "id": "node/6336080709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6368867597",
+        "amenity": "bar",
+        "name": "13.5 E Mezzo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3465606,
+          48.1994307
+        ]
+      },
+      "id": "node/6368867597"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6548054298",
+        "addr:housenumber": "25",
+        "addr:street": "Salesianergasse",
+        "amenity": "bar",
+        "name": "Bar3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3811795,
+          48.1980234
+        ]
+      },
+      "id": "node/6548054298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6672712833",
+        "amenity": "bar",
+        "name": "Crima"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2807861,
+          48.1954902
+        ]
+      },
+      "id": "node/6672712833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6697500062",
+        "amenity": "bar",
+        "contact:website": "http://www.finowien.com",
+        "name": "Fino",
+        "opening_hours": "Mo-Fr 08:00-01:00, Sa 09:00-01:00, Su, PH off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3716645,
+          48.2101189
+        ]
+      },
+      "id": "node/6697500062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6718724286",
+        "amenity": "bar",
+        "name": "Kiosk Calypso"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3710273,
+          48.1992088
+        ]
+      },
+      "id": "node/6718724286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6916781920",
+        "amenity": "bar",
+        "name": "CCI Bar & Café",
+        "opening_hours": "Su-Th 09:00-24:00; Fr-Sa 09:00-02:00",
+        "outdoor_seating": "yes",
+        "start_date": "2020-01-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5036353,
+          48.2252585
+        ]
+      },
+      "id": "node/6916781920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6952524398",
+        "addr:city": "Vienna",
+        "addr:housenumber": "23",
+        "addr:postcode": "1100",
+        "addr:street": "Bloch-Bauer-Promenade",
+        "amenity": "bar",
+        "name": "Mimi im Stadtelefant",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "website": "https://www.facebook.com/mimi.im.stadtelefant/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3871196,
+          48.179047
+        ]
+      },
+      "id": "node/6952524398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6952756976",
+        "amenity": "bar",
+        "name": "Kenny's",
+        "note": "Non-alcoholic drinks"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3858176,
+          48.1794996
+        ]
+      },
+      "id": "node/6952756976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6976714163",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "5",
+        "addr:postcode": "1010",
+        "addr:street": "Wollzeile",
+        "amenity": "bar",
+        "contact:phone": "+43 1 512 93 50",
+        "name": "Vis-a-Vis Weinbar",
+        "opening_hours": "Tu-Fr 16:00-22:30; Sa 15:00-22:30",
+        "website": "http://www.weibel.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3746139,
+          48.2093227
+        ]
+      },
+      "id": "node/6976714163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7090277291",
+        "addr:housenumber": "8",
+        "addr:postcode": "1150",
+        "addr:street": "Haidmannsgasse",
+        "amenity": "bar",
+        "name": "The Chapel Speakeasy",
+        "phone": "004318920878"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3359907,
+          48.1937984
+        ]
+      },
+      "id": "node/7090277291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7102337418",
+        "amenity": "bar",
+        "name": "Richys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3734557,
+          48.2113986
+        ]
+      },
+      "id": "node/7102337418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7109621385",
+        "amenity": "bar",
+        "name:en": "Beethoven."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4400545,
+          48.1519923
+        ]
+      },
+      "id": "node/7109621385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7194096133",
+        "amenity": "bar",
+        "name": "RRR",
+        "website": "http://rrr.social/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3371461,
+          48.2143139
+        ]
+      },
+      "id": "node/7194096133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7272328739",
+        "amenity": "bar",
+        "name": "Quattro Café-Bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3323299,
+          48.228621
+        ]
+      },
+      "id": "node/7272328739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7746801438",
+        "amenity": "bar",
+        "name": "Solas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4015527,
+          48.2215107
+        ]
+      },
+      "id": "node/7746801438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7756785898",
+        "amenity": "bar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3997863,
+          48.1958067
+        ]
+      },
+      "id": "node/7756785898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7814185898",
+        "addr:housenumber": "64",
+        "addr:street": "Linke Wienzeile",
+        "amenity": "bar",
+        "name": "Schmauswaberl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3560033,
+          48.1967033
+        ]
+      },
+      "id": "node/7814185898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7861392939",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1010",
+        "addr:street": "Riemergasse",
+        "amenity": "bar",
+        "contact:email": "riemergasse@pannonisch.at",
+        "contact:phone": "+43 664 88 345 150",
+        "name": "Golser Bier & Wein Bar",
+        "opening_hours": "Mo-Fr 16:00-23:00",
+        "source": "survey",
+        "website": "http://www.pannonisch.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3768069,
+          48.2074516
+        ]
+      },
+      "id": "node/7861392939"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7861516826",
+        "addr:city": "Wien",
+        "addr:postcode": "1010",
+        "addr:street": "Mahlerstraße",
+        "amenity": "bar",
+        "contact:email": "oper@pannonisch.at",
+        "contact:phone": "+43 664 88 345 156",
+        "name": "Golser Bier & Wein Bar",
+        "opening_hours": "Mo-Fr 16:00-24:00, Sa 18:00-02:00",
+        "source": "survey",
+        "website": "http://www.pannonisch.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3731037,
+          48.2024799
+        ]
+      },
+      "id": "node/7861516826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7881159727",
+        "addr:city": "Wien",
+        "addr:housenumber": "30",
+        "addr:postcode": "1020",
+        "addr:street": "Heinestraße",
+        "amenity": "bar",
+        "name": "Bar Montina",
+        "website": "https://www.barmontina.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.387211,
+          48.219233
+        ]
+      },
+      "id": "node/7881159727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7881292549",
+        "addr:city": "Wien",
+        "addr:housenumber": "18",
+        "addr:postcode": "1020",
+        "addr:street": "Praterstraße",
+        "amenity": "bar",
+        "name": "Praterstrasse",
+        "note": "entry until 10 p.m. Praterstraße 18\nentry after 10 p.m. Aspernbrückengasse 2",
+        "website": "https://www.praterstrasse.wien/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3827051,
+          48.2134514
+        ]
+      },
+      "id": "node/7881292549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7927336838",
+        "amenity": "bar",
+        "name": "Lounge Bar PaSSion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.380991,
+          48.2181718
+        ]
+      },
+      "id": "node/7927336838"
+    }
+  ]
+}

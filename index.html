@@ -1,0 +1,115 @@
+<html>
+
+<head>
+	
+	<title>Wien :: 50m zu Restaurants</title>
+
+	<meta charset="UTF-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+	<link rel="stylesheet" href="lib/default.css">
+	<script src="lib/functions.js"></script>
+
+	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+	
+</head>
+
+<body>
+
+	<div id="controls">
+		<div class="legend"><b>Legende:</b></div>
+		<div>
+			<table border="0" cellpadding="0" cellspacing="0" class="checkboxes">
+				<tr>
+					<td style="padding-right: 15px; padding-bottom: 3px">
+						Bars
+					</td>
+					<td style="padding-bottom: 3px">
+						<svg width="20" height="20">
+							<rect width="20" height="20" style="fill:#7fc97f" />
+						</svg>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-right: 15px; padding-bottom: 3px">
+						Biergärten
+					</td>
+					<td style="padding-bottom: 3px">
+						<svg width="20" height="20">
+							<rect width="20" height="20" style="fill:#beaed4" />
+						</svg>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-right: 15px; padding-bottom: 3px">
+						Cafes
+					</td>
+					<td style="padding-bottom: 3px">
+						<svg width="20" height="20">
+							<rect width="20" height="20" style="fill:#fdc086" />
+						</svg>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-right: 15px; padding-bottom: 3px">
+						Fast Food
+					</td>
+					<td style="padding-bottom: 3px">
+						<svg width="20" height="20">
+							<rect width="20" height="20" style="fill:#ffff99" />
+						</svg>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-right: 15px; padding-bottom: 3px">
+						Pubs
+					</td>
+					<td style="padding-bottom: 3px">
+						<svg width="20" height="20">
+							<rect width="20" height="20" style="fill:#386cb0" />
+						</svg>
+					</td>
+				</tr>
+				<tr>
+					<td style="padding-right: 15px; padding-bottom: 3px">
+						Restaurants
+					</td>
+					<td style="padding-bottom: 3px">
+						<svg width="20" height="20">
+							<rect width="20" height="20" style="fill:#f0027f" />
+						</svg>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+
+	<div id="coronamap"></div>
+
+	<div id="footer">
+		Author: Johanna Schmidt;
+		Data source: <a href="https://www.openstreetmap.org/" target="_blank">OpenStreetMap</a>
+	</div>
+	
+	<script>
+
+		var CORONAMAP = 0;
+
+		var BARS = L.layerGroup();
+		var BEERGARDENS = L.layerGroup();
+		var CAFES = L.layerGroup();
+		var FASTFOOD = L.layerGroup();
+		var PUBS = L.layerGroup();
+		var RESTAURANTS = L.layerGroup();
+
+		InitMap();
+
+		LoadData();
+
+	</script>
+
+</body>
+
+</html>

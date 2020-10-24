@@ -1,0 +1,153 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-24T18:44:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/269542819",
+        "amenity": "biergarten",
+        "created_by": "JOSM",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3289585,
+          48.2305022
+        ]
+      },
+      "id": "node/269542819"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/886418373",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1130",
+        "addr:street": "Schloßpark Schönbrunn",
+        "amenity": "biergarten",
+        "name": "Biergarten",
+        "outdoor_seating": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3039809,
+          48.1829448
+        ]
+      },
+      "id": "node/886418373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1737968232",
+        "amenity": "biergarten"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4191935,
+          48.1963206
+        ]
+      },
+      "id": "node/1737968232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1910748564",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "143",
+        "addr:postcode": "1120",
+        "addr:street": "Hetzendorfer Straße",
+        "amenity": "biergarten",
+        "entrance": "main",
+        "name": "Alt Hetzendorf Gartenschenke"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3004165,
+          48.1697423
+        ]
+      },
+      "id": "node/1910748564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2955751386",
+        "amenity": "biergarten",
+        "name": "Schutzhaus Am Ameisbach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2940146,
+          48.2012785
+        ]
+      },
+      "id": "node/2955751386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3321823753",
+        "amenity": "biergarten",
+        "name": "Lucky Garden",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.286372,
+          48.1458785
+        ]
+      },
+      "id": "node/3321823753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3952859762",
+        "amenity": "biergarten",
+        "name": "Schweizerhaus",
+        "opening_hours": "Mar-Oct: Mo-Su,PH 11:00-23:00",
+        "wheelchair": "yes",
+        "wikidata": "Q876104",
+        "wikipedia": "en:Schweizerhaus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4015481,
+          48.2140455
+        ]
+      },
+      "id": "node/3952859762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5902480485",
+        "amenity": "biergarten",
+        "fixme": "also map restaurant that this belongs to",
+        "name": "Zur Christl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4024519,
+          48.3084951
+        ]
+      },
+      "id": "node/5902480485"
+    }
+  ]
+}
