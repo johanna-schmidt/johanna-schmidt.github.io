@@ -1,0 +1,4050 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2020-10-25T08:52:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/15337840",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "216b",
+        "addr:postcode": "1140",
+        "addr:street": "Hütteldorfer Straße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "contact:phone": "+43 1 9145580",
+        "fuel:adblue:canister": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_95": "yes",
+        "name": "OMV",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2799487,
+          48.1979115
+        ]
+      },
+      "id": "node/15337840"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/35526352",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "420",
+        "addr:postcode": "1210",
+        "addr:street": "Brünner Straße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4300606,
+          48.3114425
+        ]
+      },
+      "id": "node/35526352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60649059",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "94",
+        "addr:postcode": "1070",
+        "addr:street": "Schottenfeldgasse",
+        "amenity": "fuel",
+        "name": "Torrefina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.343487,
+          48.2071479
+        ]
+      },
+      "id": "node/60649059"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/61681586",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3298517,
+          48.304537
+        ]
+      },
+      "id": "node/61681586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/83454997",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "64",
+        "addr:postcode": "1210",
+        "addr:street": "Brünner Straße",
+        "amenity": "fuel",
+        "brand": "OIL!",
+        "brand:wikidata": "Q2007561",
+        "brand:wikipedia": "de:OIL! Tankstellen",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "OIL!",
+        "opening_hours": "Mo-Fr 06:00-22:00; Sa 07:00-22:00; So 08:00-20:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4030241,
+          48.2660809
+        ]
+      },
+      "id": "node/83454997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/83466627",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "186",
+        "addr:postcode": "1210",
+        "addr:street": "Brünner Straße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "BP",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4135257,
+          48.2835135
+        ]
+      },
+      "id": "node/83466627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/86110773",
+        "amenity": "fuel",
+        "name": "disk",
+        "opening_hours": "Mo-Fr 07:30-19:30; Sa-Su 08:00-20:00; PH 08:00-20:00",
+        "operator": "Gutmann",
+        "website": "https://www.gutmann.cc/index.php?id=76&item-id=77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3916358,
+          48.2146219
+        ]
+      },
+      "id": "node/86110773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/86111766",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "43-45",
+        "addr:postcode": "1050",
+        "addr:street": "Margaretengürtel",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3517548,
+          48.1796472
+        ]
+      },
+      "id": "node/86111766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/89412828",
+        "addr:city": "Brunn am Gebirge",
+        "addr:country": "AT",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "2345",
+        "addr:street": "Enzersdorferstraße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "contact:phone": "+43 2236 31122",
+        "name": "Eni",
+        "opening_hours": "Mo-Sa 06:00-22:00; PH Su 07:00-21:00",
+        "operator": "Eni",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2853939,
+          48.1041218
+        ]
+      },
+      "id": "node/89412828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/90385635",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "94",
+        "addr:postcode": "1120",
+        "addr:street": "Altmannsdorfer Straße",
+        "amenity": "fuel",
+        "brand:wikidata": "Q152057",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "BP",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3171251,
+          48.1624251
+        ]
+      },
+      "id": "node/90385635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/100411311",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:street": "Breitenleer Straße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:adblue:canister": "yes",
+        "fuel:cng": "yes",
+        "name": "OMV",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4717639,
+          48.2512309
+        ]
+      },
+      "id": "node/100411311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/106073029",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "173-175",
+        "addr:postcode": "1170",
+        "addr:street": "Hernalser Hauptstraße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "fuel:cng": "yes",
+        "name": "Turmöl",
+        "opening_hours": "24/7",
+        "operator": "Turmöl",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3157642,
+          48.2232037
+        ]
+      },
+      "id": "node/106073029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/113361392",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni",
+        "source": "Hoss",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3583126,
+          48.2293236
+        ]
+      },
+      "id": "node/113361392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/115180945",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2a",
+        "addr:postcode": "1030",
+        "addr:street": "Oberzellergasse",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3969991,
+          48.1938224
+        ]
+      },
+      "id": "node/115180945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/134684557",
+        "addr:city": "Schwechat",
+        "addr:country": "AT",
+        "addr:postcode": "2320",
+        "addr:street": "Schwechat",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:adblue": "yes",
+        "fuel:cng": "yes",
+        "name": "OMV",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4387819,
+          48.1225771
+        ]
+      },
+      "id": "node/134684557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/154635771",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "30",
+        "addr:postcode": "1030",
+        "addr:street": "Erdberger Lände",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4038268,
+          48.201264
+        ]
+      },
+      "id": "node/154635771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/194647902",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "250",
+        "addr:postcode": "1230",
+        "addr:street": "Laxenburger Straße",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "name": "Jet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3562896,
+          48.1357041
+        ]
+      },
+      "id": "node/194647902"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/218361184",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "1160",
+        "addr:street": "Baldiagasse",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "car_wash": "yes",
+        "email": "wien.baldiagasse@doppler-tankstellen.at",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Su 06:00-00:00",
+        "phone": "+43 1 48689161",
+        "shop": "yes",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3244588,
+          48.2151297
+        ]
+      },
+      "id": "node/218361184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/224418750",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "77",
+        "addr:postcode": "1210",
+        "addr:street": "Julius-Ficker-Straße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4486834,
+          48.2666793
+        ]
+      },
+      "id": "node/224418750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/224425506",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "51",
+        "addr:postcode": "1210",
+        "addr:street": "Leopoldauer Straße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4117114,
+          48.2599748
+        ]
+      },
+      "id": "node/224425506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/224425648",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "40",
+        "addr:postcode": "1210",
+        "addr:street": "Leopoldauer Straße",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Jet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4112456,
+          48.2589322
+        ]
+      },
+      "id": "node/224425648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/249879463",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "60",
+        "addr:postcode": "1200",
+        "addr:street": "Jägerstraße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3707403,
+          48.2349951
+        ]
+      },
+      "id": "node/249879463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/250077136",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2e",
+        "addr:postcode": "1180",
+        "addr:street": "Gersthofer Straße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3289881,
+          48.2290638
+        ]
+      },
+      "id": "node/250077136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/256613332",
+        "addr:city": "Schwechat",
+        "addr:country": "AT",
+        "addr:housenumber": "24A",
+        "addr:postcode": "2320",
+        "addr:street": "Bruck Hainburger-Straße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:cng": "no",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4854603,
+          48.1396134
+        ]
+      },
+      "id": "node/256613332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/259838830",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1160",
+        "addr:street": "Pfenninggeldgasse",
+        "amenity": "fuel",
+        "car_wash": "yes",
+        "contact:phone": "+43 1 493 18 14",
+        "name": "Shell",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3132959,
+          48.2078409
+        ]
+      },
+      "id": "node/259838830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/279523757",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "203",
+        "addr:postcode": "1210",
+        "addr:street": "Wagramer Straße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4549172,
+          48.2644014
+        ]
+      },
+      "id": "node/279523757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280138173",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "23",
+        "addr:postcode": "1180",
+        "addr:street": "Sternwartestraße",
+        "amenity": "fuel",
+        "fuel:biodiesel": "yes",
+        "name": "AWI-Diskont",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3462658,
+          48.2295311
+        ]
+      },
+      "id": "node/280138173"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/280810382",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "105",
+        "addr:postcode": "1210",
+        "addr:street": "Siemensstraße",
+        "amenity": "fuel",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Shell",
+        "operator": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4290135,
+          48.2671336
+        ]
+      },
+      "id": "node/280810382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/281910074",
+        "addr:city": "Schwechat",
+        "addr:country": "AT",
+        "addr:housenumber": "123",
+        "addr:postcode": "2320",
+        "addr:street": "Brauhausstraße",
+        "addr:suburb": "Rannersdorf",
+        "amenity": "fuel",
+        "name": "Jet",
+        "survey:date": "2015-08-22",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4535547,
+          48.1171837
+        ]
+      },
+      "id": "node/281910074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/282870591",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "name": "Turmöl",
+        "opening_hours": "05:00-24:00",
+        "operator": "Turmöl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.285163,
+          48.1034072
+        ]
+      },
+      "id": "node/282870591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286039605",
+        "addr:city": "Vösendorf",
+        "addr:country": "AT",
+        "addr:housenumber": "20",
+        "addr:postcode": "2331",
+        "addr:street": "Schönbrunner Allee",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3263233,
+          48.1307431
+        ]
+      },
+      "id": "node/286039605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/286900282",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:housenumber": "50",
+        "addr:postcode": "1220",
+        "addr:street": "Hirschstettner Straße",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Jet",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4606809,
+          48.2381044
+        ]
+      },
+      "id": "node/286900282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289869120",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2b",
+        "addr:postcode": "1180",
+        "addr:street": "Gersthofer Straße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni",
+        "operator": "ESSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3265261,
+          48.2269872
+        ]
+      },
+      "id": "node/289869120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289936645",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "228",
+        "addr:postcode": "1230",
+        "addr:street": "Speisinger Straße",
+        "amenity": "fuel",
+        "name": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.271101,
+          48.1549697
+        ]
+      },
+      "id": "node/289936645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/289942937",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "164",
+        "addr:postcode": "1230",
+        "addr:street": "Breitenfurter Straße",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "name": "Jet",
+        "operator": "Jet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3012476,
+          48.1538959
+        ]
+      },
+      "id": "node/289942937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292391978",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "128",
+        "addr:postcode": "1140",
+        "addr:street": "Hadikgasse",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell",
+        "opening_hours": "Mo-Su,PH 00:00-23:59+"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2947628,
+          48.1902742
+        ]
+      },
+      "id": "node/292391978"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/292496617",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "29",
+        "addr:postcode": "1120",
+        "addr:street": "Wienerbergstraße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3368675,
+          48.1708142
+        ]
+      },
+      "id": "node/292496617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293032125",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "02. Leopoldstadt",
+        "addr:housenumber": "zw. 1 und 14",
+        "addr:postcode": "1020",
+        "addr:street": "Gaußplatz",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "OMV",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3708583,
+          48.225842
+        ]
+      },
+      "id": "node/293032125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293181191",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1210",
+        "addr:street": "Floridsdorfer Hauptstraße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "24/7",
+        "operator": "Shell",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3941412,
+          48.2543207
+        ]
+      },
+      "id": "node/293181191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293187691",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "34",
+        "addr:postcode": "1120",
+        "addr:street": "Ruckergasse",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32646,
+          48.1790217
+        ]
+      },
+      "id": "node/293187691"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293190025",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "53",
+        "addr:postcode": "1120",
+        "addr:street": "Tivoligasse",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "fuel:biodiesel": "yes",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Fr 06:00-20:00; Sa 07:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3215501,
+          48.1804429
+        ]
+      },
+      "id": "node/293190025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293191903",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "9",
+        "addr:postcode": "1120",
+        "addr:street": "Am Fasangarten",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "BP",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-22:00",
+        "operator": "BP",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3061365,
+          48.1706474
+        ]
+      },
+      "id": "node/293191903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293808035",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "112",
+        "addr:postcode": "1120",
+        "addr:street": "Breitenfurter Straße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "name": "BP",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3095138,
+          48.1605695
+        ]
+      },
+      "id": "node/293808035"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293902401",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2b",
+        "addr:postcode": "1120",
+        "addr:street": "Eichenstraße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Turmöl",
+        "payment:credit_cards": "yes",
+        "payment:electronic_purses": "yes",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3445986,
+          48.1780239
+        ]
+      },
+      "id": "node/293902401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/293904666",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "name": "Turmöl",
+        "old_name": "MOL",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3351602,
+          48.1843823
+        ]
+      },
+      "id": "node/293904666"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294704949",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "77",
+        "addr:postcode": "1190",
+        "addr:street": "Heiligenstädter Straße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "car_wash": "yes",
+        "name": "BP",
+        "opening_hours": "24/7",
+        "operator": "Simone Oswald",
+        "shop": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3612371,
+          48.243908
+        ]
+      },
+      "id": "node/294704949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/294707592",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "60",
+        "addr:postcode": "1190",
+        "addr:street": "Heiligenstädter Straße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "car_wash": "yes",
+        "name": "Shell",
+        "opening_hours": "24/7",
+        "shop": "yes",
+        "toilets": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3614123,
+          48.2416329
+        ]
+      },
+      "id": "node/294707592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296007562",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1040",
+        "addr:street": "Margaretenstraße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "fuel:biodiesel": "yes",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Su,PH 06:00-24:00",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3646586,
+          48.1962418
+        ]
+      },
+      "id": "node/296007562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/296934372",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:housenumber": "9",
+        "addr:postcode": "1220",
+        "addr:street": "Rautenweg",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Jet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4596601,
+          48.2636728
+        ]
+      },
+      "id": "node/296934372"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297755502",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "140",
+        "addr:postcode": "1220",
+        "addr:street": "Am Kaisermühlendamm",
+        "amenity": "fuel",
+        "name": "Shell",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4468422,
+          48.2072402
+        ]
+      },
+      "id": "node/297755502"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297755554",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "115",
+        "addr:postcode": "1220",
+        "addr:street": "Biberhaufenweg",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4739283,
+          48.2022857
+        ]
+      },
+      "id": "node/297755554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/297782315",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "215",
+        "addr:postcode": "1230",
+        "addr:street": "Breitenfurter Straße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3052943,
+          48.156864
+        ]
+      },
+      "id": "node/297782315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306249816",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "55",
+        "addr:postcode": "1100",
+        "addr:street": "Hardtmuthgasse",
+        "amenity": "fuel",
+        "name": "Champion",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3699805,
+          48.1702177
+        ]
+      },
+      "id": "node/306249816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/306256864",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3772219,
+          48.1634628
+        ]
+      },
+      "id": "node/306256864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/308040575",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2-4",
+        "addr:postcode": "1100",
+        "addr:street": "Grenzackerstraße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "name": "Turmöl",
+        "wheelchair": "yes",
+        "wheelchair:description": "Jetzt nicht mehr BP sondern TURMÖL. SPAR Einkauf möglich"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3797037,
+          48.1628588
+        ]
+      },
+      "id": "node/308040575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/309293362",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "ggü. 75",
+        "addr:postcode": "1160",
+        "addr:street": "Huttengasse",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni",
+        "source": "foot survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3108145,
+          48.2111617
+        ]
+      },
+      "id": "node/309293362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/310471367",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1080",
+        "addr:street": "Bennoplatz",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "fuel:biodiesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Fr 06:00-21:00; Sa 07:00-20:00; Su 08:00-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3418541,
+          48.2119271
+        ]
+      },
+      "id": "node/310471367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/313010936",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:housenumber": "1",
+        "addr:postcode": "1220",
+        "addr:street": "Gewerbeparkstraße",
+        "addr:subdistrict": "Stadlau",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4662121,
+          48.2474929
+        ]
+      },
+      "id": "node/313010936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/314726999",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1210",
+        "addr:street": "Einzingergasse",
+        "amenity": "fuel",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3802714,
+          48.2825749
+        ]
+      },
+      "id": "node/314726999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319529577",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "11",
+        "addr:postcode": "1010",
+        "addr:street": "Börsegasse",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3671699,
+          48.2152732
+        ]
+      },
+      "id": "node/319529577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319683175",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "109",
+        "addr:postcode": "1150",
+        "addr:street": "Gablenzgasse",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "OMV",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3138504,
+          48.2068497
+        ]
+      },
+      "id": "node/319683175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319683569",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "72",
+        "addr:postcode": "1160",
+        "addr:street": "Gablenzgasse",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32184,
+          48.2060362
+        ]
+      },
+      "id": "node/319683569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/319684246",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2b",
+        "addr:postcode": "1150",
+        "addr:street": "Oeverseestraße",
+        "amenity": "fuel",
+        "name": "Shell",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3177019,
+          48.2018231
+        ]
+      },
+      "id": "node/319684246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327305679",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "25",
+        "addr:postcode": "1020",
+        "addr:street": "Rotensterngasse",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "123tanken.at",
+        "opening_hours": "Mo-Fr 06:00-20:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3845232,
+          48.2172509
+        ]
+      },
+      "id": "node/327305679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327308079",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "41",
+        "addr:postcode": "1020",
+        "addr:street": "Stuwerstraße",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Bärtl-Garage",
+        "phone": "+43(1)7293939"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4058713,
+          48.2189361
+        ]
+      },
+      "id": "node/327308079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327357813",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "184",
+        "addr:postcode": "1030",
+        "addr:street": "Erdbergstraße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "description": "Automaten Tankstelle",
+        "name": "BP",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4103596,
+          48.1931587
+        ]
+      },
+      "id": "node/327357813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327371063",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "90-92",
+        "addr:postcode": "1060",
+        "addr:street": "Linke Wienzeile",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP",
+        "opening_hours": "08:00-22:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3537686,
+          48.1948518
+        ]
+      },
+      "id": "node/327371063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327435716",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1070",
+        "addr:street": "Seidengasse",
+        "amenity": "fuel",
+        "name": "Leo Diskont",
+        "name:ru": "Лео Дисконт",
+        "operator": "Castrol"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3445256,
+          48.2004616
+        ]
+      },
+      "id": "node/327435716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327437727",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "2",
+        "addr:postcode": "1070",
+        "addr:street": "Stollgasse",
+        "amenity": "fuel",
+        "name": "Diskont Tankstelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3426232,
+          48.1989935
+        ]
+      },
+      "id": "node/327437727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327443097",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "1090",
+        "addr:street": "Pramergasse",
+        "amenity": "fuel",
+        "name": "Servitengarage",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3640761,
+          48.221922
+        ]
+      },
+      "id": "node/327443097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327927504",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "50",
+        "addr:postcode": "1100",
+        "addr:street": "Himberger Straße",
+        "amenity": "fuel",
+        "name": "OIL!"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3834598,
+          48.1365689
+        ]
+      },
+      "id": "node/327927504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/327936555",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3908073,
+          48.1641388
+        ]
+      },
+      "id": "node/327936555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328472677",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "489",
+        "addr:postcode": "1110",
+        "addr:street": "Simmeringer Hauptstraße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.462345,
+          48.1483482
+        ]
+      },
+      "id": "node/328472677"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328476947",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "11. Simmering",
+        "addr:housenumber": "5",
+        "addr:postcode": "1110",
+        "addr:street": "Simmeringer Hauptstraße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "Mo-Su 07:00-21:00",
+        "phone": "+43 800 202055",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4061483,
+          48.1838947
+        ]
+      },
+      "id": "node/328476947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328480850",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1110",
+        "addr:street": "Zinnergasse",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4714605,
+          48.1612411
+        ]
+      },
+      "id": "node/328480850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328599621",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "14",
+        "addr:postcode": "1130",
+        "addr:street": "Lainzer Straße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2961551,
+          48.1855403
+        ]
+      },
+      "id": "node/328599621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328739270",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "49",
+        "addr:postcode": "1140",
+        "addr:street": "Ameisgasse",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "disk",
+        "opening_hours": "Mo-Su 06:00-21:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2994765,
+          48.1949268
+        ]
+      },
+      "id": "node/328739270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328782379",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "135-137",
+        "addr:postcode": "1140",
+        "addr:street": "Linzer Straße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "BP",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "payment:routex": "yes",
+        "self_service": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3017021,
+          48.1933491
+        ]
+      },
+      "id": "node/328782379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328794669",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "ggü. 102",
+        "addr:postcode": "1150",
+        "addr:street": "Felberstraße",
+        "amenity": "fuel",
+        "brand": "eni",
+        "name": "eni24",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.32111,
+          48.1933375
+        ]
+      },
+      "id": "node/328794669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328798395",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1150",
+        "addr:street": "Hollergasse",
+        "amenity": "fuel",
+        "name": "Nemec Diskont",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3249351,
+          48.1853266
+        ]
+      },
+      "id": "node/328798395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328802775",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8",
+        "addr:postcode": "1150",
+        "addr:street": "Neubergenstraße",
+        "amenity": "fuel",
+        "name": "Landschützer Diskont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3201581,
+          48.1938305
+        ]
+      },
+      "id": "node/328802775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/328808527",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "17",
+        "addr:postcode": "1150",
+        "addr:street": "Pouthongasse",
+        "amenity": "fuel",
+        "name": "Trötzmüller",
+        "phone": "+43 1 9823141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3296509,
+          48.1993269
+        ]
+      },
+      "id": "node/328808527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329137896",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "66",
+        "addr:postcode": "1160",
+        "addr:street": "Maroltingergasse",
+        "amenity": "fuel",
+        "name": "Maroltingergarage Diskont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.305796,
+          48.2103389
+        ]
+      },
+      "id": "node/329137896"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329151899",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "31",
+        "addr:postcode": "1160",
+        "addr:street": "Wattgasse",
+        "amenity": "fuel",
+        "name": "KAWE Garage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3194261,
+          48.216507
+        ]
+      },
+      "id": "node/329151899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329154604",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "3",
+        "addr:postcode": "1160",
+        "addr:street": "Neumayrgasse",
+        "amenity": "fuel",
+        "name": "Neumayrgarage Diskont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3336682,
+          48.2045008
+        ]
+      },
+      "id": "node/329154604"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329160401",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "81",
+        "addr:postcode": "1170",
+        "addr:street": "Antonigasse",
+        "amenity": "fuel",
+        "name": "Urban Garage Diskont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3327751,
+          48.22458
+        ]
+      },
+      "id": "node/329160401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329217141",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "137",
+        "addr:postcode": "1190",
+        "addr:street": "Grinzinger Straße",
+        "amenity": "fuel",
+        "brand": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3639887,
+          48.2546512
+        ]
+      },
+      "id": "node/329217141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329219506",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7",
+        "addr:postcode": "1190",
+        "addr:street": "Gunoldstraße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "OMV",
+        "opening_hours": "24/7",
+        "operator": "OMV",
+        "phone": "+43 1 3676565"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3658362,
+          48.2452619
+        ]
+      },
+      "id": "node/329219506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329258472",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "388",
+        "addr:postcode": "1020",
+        "addr:street": "Handelskai",
+        "amenity": "fuel",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4360742,
+          48.2030025
+        ]
+      },
+      "id": "node/329258472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329280055",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "116-118",
+        "addr:postcode": "1100",
+        "addr:street": "Gudrunstraße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "kiosk": "yes",
+        "name": "Eni",
+        "operator": "Eni",
+        "phone": "+43 1 6042372",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3785475,
+          48.1780583
+        ]
+      },
+      "id": "node/329280055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329283371",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1100",
+        "addr:street": "Absberggasse",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3886376,
+          48.1710623
+        ]
+      },
+      "id": "node/329283371"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329290318",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "48",
+        "addr:postcode": "1110",
+        "addr:street": "Kaiser-Ebersdorfer Straße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4269013,
+          48.1671836
+        ]
+      },
+      "id": "node/329290318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329301388",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "32-34",
+        "addr:postcode": "1190",
+        "addr:street": "Krottenbachstraße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "car_wash": "yes",
+        "name": "Eni",
+        "opening_hours": "06:00-23:00",
+        "operator": "Raimund Leitner",
+        "phone": "+43 1 3696149",
+        "shop": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3394147,
+          48.2407425
+        ]
+      },
+      "id": "node/329301388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329313663",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "67",
+        "addr:postcode": "1200",
+        "addr:street": "Adalbert-Stifter-Straße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:adblue:canister": "yes",
+        "fuel:cng": "yes",
+        "name": "OMV",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3752385,
+          48.2430353
+        ]
+      },
+      "id": "node/329313663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329328927",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "90",
+        "addr:postcode": "1200",
+        "addr:street": "Handelskai",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "no",
+        "fuel:octane_95": "yes",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3843336,
+          48.2430922
+        ]
+      },
+      "id": "node/329328927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329406289",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "91",
+        "addr:postcode": "1210",
+        "addr:street": "Donaufelder Straße",
+        "amenity": "fuel",
+        "brand": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4183721,
+          48.2533484
+        ]
+      },
+      "id": "node/329406289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329409662",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "21. Floridsdorf",
+        "addr:housenumber": "135",
+        "addr:postcode": "1210",
+        "addr:street": "Donaufelder Straße",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Jet",
+        "opening_hours": "Mo-Su 05:00-24:00",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4260497,
+          48.2526458
+        ]
+      },
+      "id": "node/329409662"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329934373",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "272",
+        "addr:postcode": "1210",
+        "addr:street": "Prager Straße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3840448,
+          48.2866062
+        ]
+      },
+      "id": "node/329934373"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329938776",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "179",
+        "addr:postcode": "1210",
+        "addr:street": "Wagramer Straße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4501744,
+          48.2596848
+        ]
+      },
+      "id": "node/329938776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329954412",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:housenumber": "13",
+        "addr:postcode": "1220",
+        "addr:street": "Rautenweg",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "fuel:adblue": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Eni",
+        "operator": "AGIP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4610759,
+          48.263136
+        ]
+      },
+      "id": "node/329954412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329968433",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "43",
+        "addr:postcode": "1220",
+        "addr:street": "Donaustadtstraße",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "fuel:cng": "yes",
+        "fuel:lpg": "yes",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4447137,
+          48.222682
+        ]
+      },
+      "id": "node/329968433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/329969753",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "41",
+        "addr:postcode": "1220",
+        "addr:street": "Donaustadtstraße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4450878,
+          48.2270778
+        ]
+      },
+      "id": "node/329969753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330004899",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "12",
+        "addr:postcode": "1220",
+        "addr:street": "Erzherzog-Karl-Straße",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Weiss&Prokes Diskont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4322581,
+          48.2381779
+        ]
+      },
+      "id": "node/330004899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330006479",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "34",
+        "addr:postcode": "1220",
+        "addr:street": "Hirschstettner Straße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:cng": "yes",
+        "name": "OMV",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4565224,
+          48.2425708
+        ]
+      },
+      "id": "node/330006479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330007270",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "148",
+        "addr:postcode": "1220",
+        "addr:street": "Neuhaufenstraße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055",
+        "self_service": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4465684,
+          48.2180253
+        ]
+      },
+      "id": "node/330007270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330011156",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:housenumber": "108",
+        "addr:postcode": "1220",
+        "addr:street": "Breitenleer Straße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:adblue:canister": "yes",
+        "name": "OMV",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4702803,
+          48.2509454
+        ]
+      },
+      "id": "node/330011156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330015275",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "150",
+        "addr:postcode": "1230",
+        "addr:street": "Altmannsdorfer Straße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "rent:lpg_bottles": "yes",
+        "rent:lpg_bottles:brand": "AluGas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3193851,
+          48.1546503
+        ]
+      },
+      "id": "node/330015275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330015405",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "200a",
+        "addr:postcode": "1230",
+        "addr:street": "Altmannsdorfer Straße",
+        "amenity": "fuel",
+        "name": "A1 Tankstelle",
+        "website": "http://www.a1-tankstellen.at/web/tankstellen/wien/item/a1-tankstelle-651-wien"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3237024,
+          48.1400585
+        ]
+      },
+      "id": "node/330015405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330016899",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "23. Liesing",
+        "addr:housenumber": "325-327",
+        "addr:postcode": "1230",
+        "addr:street": "Breitenfurter Straße",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.292791,
+          48.1429967
+        ]
+      },
+      "id": "node/330016899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330018793",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "69",
+        "addr:postcode": "1230",
+        "addr:street": "Endresstraße",
+        "amenity": "fuel",
+        "brand": "A1",
+        "fuel:biogas": "no",
+        "fuel:cng": "no",
+        "fuel:diesel": "yes",
+        "fuel:lpg": "no",
+        "fuel:octane_95": "yes",
+        "name": "A1",
+        "operator": "A1 Tankstellenbetrieb GmbH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2777195,
+          48.1486672
+        ]
+      },
+      "id": "node/330018793"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330019390",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:postcode": "1230",
+        "addr:street": "Laxenburger Straße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "name": "OMV",
+        "opening_hours": "Mo-Su 06:00-21:00",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3610826,
+          48.1463744
+        ]
+      },
+      "id": "node/330019390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330019468",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "276",
+        "addr:postcode": "1230",
+        "addr:street": "Oberlaaer Straße",
+        "amenity": "fuel",
+        "created_by": "Potlatch 0.10f",
+        "name": "Jet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3668194,
+          48.1469026
+        ]
+      },
+      "id": "node/330019468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330019976",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "1230",
+        "addr:street": "Sterngasse",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:adblue:canister": "yes",
+        "fuel:cng": "yes",
+        "name": "OMV",
+        "operator": "OMV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3387386,
+          48.1487914
+        ]
+      },
+      "id": "node/330019976"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330372032",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47-49",
+        "addr:postcode": "1030",
+        "addr:street": "Untere Viaduktgasse",
+        "amenity": "fuel",
+        "car_wash": "yes",
+        "maxheight": "3",
+        "name": "TANKEnergie Ringgarage",
+        "opening_hours": "Mo-Su 05:00-23:00",
+        "operator": "CWS Immobilien",
+        "payment:cash": "yes",
+        "payment:coins": "yes",
+        "payment:credit_cards": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:notes": "yes",
+        "payment:visa": "yes",
+        "phone": "+43 1 712 65 22",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3874637,
+          48.2068788
+        ]
+      },
+      "id": "node/330372032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330402022",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "43",
+        "addr:postcode": "1050",
+        "addr:street": "Rechte Wienzeile",
+        "amenity": "fuel",
+        "fuel:biodiesel": "yes",
+        "name": "AWI-Diskont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3589002,
+          48.1962898
+        ]
+      },
+      "id": "node/330402022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/330442149",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "136-140",
+        "addr:postcode": "1210",
+        "addr:street": "Prager Straße",
+        "amenity": "fuel",
+        "fuel:biodiesel": "yes",
+        "name": "AWI-Diskont",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3880557,
+          48.2782244
+        ]
+      },
+      "id": "node/330442149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/331398037",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "4",
+        "addr:postcode": "1160",
+        "addr:street": "Brunnengasse",
+        "amenity": "fuel",
+        "name": "NNB Brunnentankstelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3349279,
+          48.204565
+        ]
+      },
+      "id": "node/331398037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/343341009",
+        "amenity": "fuel",
+        "name": "Tank Drive In",
+        "opening_hours": "Mo-Fr 06:30-19:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3102043,
+          48.2116443
+        ]
+      },
+      "id": "node/343341009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/364361056",
+        "amenity": "fuel",
+        "brand": "BP",
+        "name": "BP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4677068,
+          48.2941793
+        ]
+      },
+      "id": "node/364361056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/541275571",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Jet",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2895373,
+          48.1901883
+        ]
+      },
+      "id": "node/541275571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/583231208",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "111",
+        "addr:postcode": "1230",
+        "addr:street": "Ketzergasse",
+        "amenity": "fuel",
+        "brand": "Eni",
+        "brand:wikidata": "Q565594",
+        "brand:wikipedia": "en:Eni",
+        "name": "Eni",
+        "operator": "Eni"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3055777,
+          48.1276662
+        ]
+      },
+      "id": "node/583231208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/616256263",
+        "amenity": "fuel",
+        "name": "Mol",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3579826,
+          48.1395593
+        ]
+      },
+      "id": "node/616256263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/621524147",
+        "addr:city": "Langenzersdorf",
+        "addr:country": "AT",
+        "addr:postcode": "2103",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.373747,
+          48.2998958
+        ]
+      },
+      "id": "node/621524147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1106324128",
+        "addr:city": "Maria-Lanzendorf",
+        "addr:housenumber": "1",
+        "addr:postcode": "2326",
+        "addr:street": "Himberger Straße",
+        "amenity": "fuel",
+        "amenity_1": "car_wash",
+        "amenity_2": "cafe",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "A1",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 06:00-21:00",
+        "operator": "A1 Tankstellenbetrieb GmbH",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4188033,
+          48.0986652
+        ]
+      },
+      "id": "node/1106324128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1315131479",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "28",
+        "addr:postcode": "1050",
+        "addr:street": "Johannagasse",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "email": "office@johanna-garage.com",
+        "fax": "+43 (0)1 544 27 98",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Johanna Garage",
+        "opening_hours": "Mo-Fr 07:00-19:00;Sa 07:00-14:00",
+        "operator": "Andreas Weltler",
+        "phone": "+43 (0)1 544 27 98",
+        "website": "http://www.johanna-garage.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3474096,
+          48.1851496
+        ]
+      },
+      "id": "node/1315131479"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1358172856",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "146",
+        "addr:postcode": "1200",
+        "addr:street": "Engerthstraße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "operator": "Turmöl",
+        "shop": "kiosk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3919192,
+          48.2337857
+        ]
+      },
+      "id": "node/1358172856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1362457561",
+        "amenity": "fuel",
+        "name": "IQ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4105429,
+          48.1649109
+        ]
+      },
+      "id": "node/1362457561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1365306728",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "name": "Jet",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4100258,
+          48.1665985
+        ]
+      },
+      "id": "node/1365306728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1404763911",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "7a",
+        "addr:postcode": "1040",
+        "addr:street": "Floragasse",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_100": "yes",
+        "fuel:octane_95": "yes",
+        "name": "OMV",
+        "opening_hours": "Mo-Fr 07:00-24:00; Sa 08:00-18:00; Su off; PH 08:00-18:00; PH Su off",
+        "operator": "OMV AG",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3681271,
+          48.1943493
+        ]
+      },
+      "id": "node/1404763911"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1632428633",
+        "amenity": "fuel",
+        "name": "ENI Tankstelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4838242,
+          48.1403884
+        ]
+      },
+      "id": "node/1632428633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1729289631",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "8-14",
+        "addr:postcode": "1200",
+        "addr:street": "Dresdner Straße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3747241,
+          48.2408949
+        ]
+      },
+      "id": "node/1729289631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1791342390",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "21. Floridsdorf",
+        "addr:postcode": "1210",
+        "amenity": "fuel",
+        "name": "SB Diskont Tankstelle",
+        "shop": "supermarket",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4260952,
+          48.2521802
+        ]
+      },
+      "id": "node/1791342390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1861534365",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "fuel:diesel": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3347365,
+          48.2473189
+        ]
+      },
+      "id": "node/1861534365"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868847146",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "155",
+        "addr:postcode": "1210",
+        "addr:street": "Prager Straße",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "brand:wikidata": "Q1473279",
+        "brand:wikipedia": "de:Turmöl",
+        "name": "Turmöl",
+        "opening_hours": "Mo-Fr 06:00-20:00, Sa 06:00-20:00, Su,PH 07:00-19:00",
+        "operator": "Turmöl",
+        "website": "https://turmöl.at"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3880693,
+          48.2766583
+        ]
+      },
+      "id": "node/1868847146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1868988579",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "261",
+        "addr:postcode": "1230",
+        "addr:street": "Breitenfurter Straße",
+        "amenity": "fuel",
+        "brand": "Hofer",
+        "brand:wikidata": "Q15815751",
+        "brand:wikipedia": "de:Hofer KG",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Hofer",
+        "opening_hours": "Apr-Oct: 24/7; Nov-Mar: Mo-Su 06:00-22:00",
+        "operator": "Hofer",
+        "payment:cash": "no",
+        "payment:debit_cards": "yes",
+        "shop": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3006586,
+          48.1510102
+        ]
+      },
+      "id": "node/1868988579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1935485039",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "16",
+        "addr:postcode": "1120",
+        "addr:street": "Edelsinnstraße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "payment:routex": "yes",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3195167,
+          48.1724067
+        ]
+      },
+      "id": "node/1935485039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2012273886",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:district": "22. Donaustadt",
+        "addr:postcode": "1220",
+        "amenity": "fuel",
+        "name": "Jandl",
+        "opening_hours": "Mo-Fr 06:00-19:00; Sa 07:00-13:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4620705,
+          48.2661853
+        ]
+      },
+      "id": "node/2012273886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2151733350",
+        "amenity": "fuel",
+        "description": "Benzin und Diesel",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "phone": "+43 1370 1658",
+        "seamark:small_craft_facility:category": "fuel_station",
+        "seamark:type": "small_craft_facility",
+        "waterway": "fuel",
+        "website": "http://yachthafen-kuchelau.businesscard.at/produkte/Yachthafen-Kuchelau-Tankstelle-fuer-Motorboote-und-Yachten_8955__1769"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3602813,
+          48.2720856
+        ]
+      },
+      "id": "node/2151733350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2222549409",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.466496,
+          48.1161709
+        ]
+      },
+      "id": "node/2222549409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2250348248",
+        "access": "restricted",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3779196,
+          48.2338223
+        ]
+      },
+      "id": "node/2250348248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2252653959",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "32",
+        "addr:postcode": "1220",
+        "addr:street": "Eßlinger Hauptstraße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "phone": "+43 800 202055",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5146307,
+          48.2144266
+        ]
+      },
+      "id": "node/2252653959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2289260717",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "10",
+        "addr:postcode": "1210",
+        "addr:street": "Shuttleworthstraße",
+        "amenity": "fuel",
+        "brand": "OMV",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:LH2": "yes",
+        "fuel:adblue:canister": "yes",
+        "name": "OMV",
+        "phone": "+43 1 2903740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4125346,
+          48.2704413
+        ]
+      },
+      "id": "node/2289260717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2489108762",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "1",
+        "addr:postcode": "1020",
+        "addr:street": "Nordbahnstraße",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3884774,
+          48.2291598
+        ]
+      },
+      "id": "node/2489108762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2510177589",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "180",
+        "addr:postcode": "1210",
+        "addr:street": "Leopoldauer Straße",
+        "amenity": "fuel",
+        "name": "Eni",
+        "opening_hours": "24/7",
+        "shop": "convenience",
+        "tobacco": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4362635,
+          48.2617152
+        ]
+      },
+      "id": "node/2510177589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2957756956",
+        "addr:city": "Klosterneuburg",
+        "addr:country": "AT",
+        "addr:housenumber": "5-7",
+        "addr:postcode": "3400",
+        "addr:street": "Schüttaustraße",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "name": "DISKONT Tankstelle",
+        "opening_hours": "24/7",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3409159,
+          48.2955616
+        ]
+      },
+      "id": "node/2957756956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3353659332",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "32-34",
+        "addr:postcode": "1170",
+        "addr:street": "Hernalser Hauptstraße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "name": "BP",
+        "operator": "Novakovic Veran e. U."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3381608,
+          48.217227
+        ]
+      },
+      "id": "node/3353659332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4570122824",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3674875,
+          48.2857538
+        ]
+      },
+      "id": "node/4570122824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4570122825",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3674374,
+          48.2857631
+        ]
+      },
+      "id": "node/4570122825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4661171707",
+        "amenity": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3468069,
+          48.1790522
+        ]
+      },
+      "id": "node/4661171707"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5287792272",
+        "amenity": "fuel",
+        "brand": "Hofer",
+        "brand:wikidata": "Q15815751",
+        "brand:wikipedia": "de:Hofer KG",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Hofer",
+        "opening_hours": "Apr-Oct: 24/7; Nov-Mar: Mo-Su 06:00-22:00",
+        "operator": "Hofer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4080545,
+          48.2717937
+        ]
+      },
+      "id": "node/5287792272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5345730915",
+        "amenity": "fuel",
+        "brand": "BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "24/7",
+        "operator": "Harald Gartler",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3029341,
+          48.2033786
+        ]
+      },
+      "id": "node/5345730915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5373485651",
+        "amenity": "fuel",
+        "brand": "BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "Mo-Su 06:00-24:00",
+        "operator": "Sonja Reimann",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4799327,
+          48.2205765
+        ]
+      },
+      "id": "node/5373485651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5417494821",
+        "amenity": "fuel",
+        "brand": "Turmöl",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2939595,
+          48.1219774
+        ]
+      },
+      "id": "node/5417494821"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5418867384",
+        "amenity": "fuel",
+        "brand": "eni",
+        "contact:phone": "+43 2236/378873",
+        "fuel:adblue": "yes",
+        "fuel:cng": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "24/7",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.293378,
+          48.1229703
+        ]
+      },
+      "id": "node/5418867384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5456956341",
+        "amenity": "fuel",
+        "brand": "Jet",
+        "brand:wikidata": "Q568940",
+        "brand:wikipedia": "en:Jet (brand)",
+        "contact:phone": "+43 1 8650713",
+        "fixme": "recheck octance_xx",
+        "fuel:diesel": "yes",
+        "fuel:octane_91": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Jet",
+        "opening_hours": "Mo-Su 05:30-22:30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2897335,
+          48.1307882
+        ]
+      },
+      "id": "node/5456956341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5954045930",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "13",
+        "addr:postcode": "1140",
+        "addr:street": "Guldengasse",
+        "amenity": "fuel",
+        "brand": "Avanti",
+        "brand:wikidata": "Q168238",
+        "brand:wikipedia": "en:OMV",
+        "name": "Avanti",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2813461,
+          48.195277
+        ]
+      },
+      "id": "node/5954045930"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6162029573",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "name": "Genol",
+        "opening_hours": "24/7",
+        "vending": "fuel",
+        "vending_machine": "fuel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4833051,
+          48.2933186
+        ]
+      },
+      "id": "node/6162029573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6284882542",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "153",
+        "addr:postcode": "1100",
+        "addr:street": "Triesterstrasse",
+        "amenity": "fuel",
+        "brand": "BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:HGV_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3416941,
+          48.15644
+        ]
+      },
+      "id": "node/6284882542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6311782991",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "117",
+        "addr:postcode": "1120",
+        "addr:street": "Altmannsdorferstraße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "24/7",
+        "operator": "BP",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3184059,
+          48.1609403
+        ]
+      },
+      "id": "node/6311782991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522154563",
+        "addr:city": "Wien",
+        "addr:country": "AT",
+        "addr:housenumber": "47",
+        "addr:postcode": "1110",
+        "addr:street": "Geiselbergstraße",
+        "amenity": "fuel",
+        "brand": "BP",
+        "brand:wikidata": "Q152057",
+        "brand:wikipedia": "en:BP",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "opening_hours": "Mo-Su 06:00-22:00",
+        "payment:routex": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4080192,
+          48.1748468
+        ]
+      },
+      "id": "node/6522154563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7073229663",
+        "addr:city": "Wien",
+        "addr:housenumber": "6",
+        "addr:postcode": "1220",
+        "addr:street": "Seestadtstraße",
+        "amenity": "fuel",
+        "brand": "Shell",
+        "brand:wikidata": "Q154950",
+        "brand:wikipedia": "en:Royal Dutch Shell",
+        "contact:phone": "+43 1 2803116",
+        "contact:website": "https://find.shell.com/at/fuel/12721668-wien-seestadtstrasse/de_AT",
+        "fuel:diesel": "yes",
+        "fuel:super": "yes",
+        "name": "Shell"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5052513,
+          48.216543
+        ]
+      },
+      "id": "node/7073229663"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7323297434",
+        "addr:city": "Perchtoldsdorf",
+        "addr:country": "AT",
+        "addr:housenumber": "191a",
+        "addr:postcode": "2380",
+        "addr:street": "Ketzergasse",
+        "amenity": "fuel",
+        "brand": "A1",
+        "contact:phone": "+43 1 86 73 919",
+        "fuel:GTL_diesel": "yes",
+        "fuel:diesel": "yes",
+        "fuel:octane_95": "yes",
+        "fuel:octane_98": "yes",
+        "name": "A1",
+        "opening_hours": "Mo-Sa 06:00-22:00; Su 07:00-21:00; PH 07:00-21:00",
+        "operator": "A1 Tankstellenbetrieb GmbH",
+        "website": "http://www.a1-tankstellen.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2919153,
+          48.1300807
+        ]
+      },
+      "id": "node/7323297434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7919643725",
+        "amenity": "fuel",
+        "brand": "Diskont Tanken",
+        "name": "Diskont Tanken",
+        "opening_hours": "24/7",
+        "operator": "Avanti",
+        "phone": "+43 800 202055",
+        "website": "https://www.diskonttanken.at/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4269373,
+          48.2525181
+        ]
+      },
+      "id": "node/7919643725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8016253468",
+        "amenity": "fuel",
+        "fuel:diesel": "yes",
+        "fuel:octane_98": "yes",
+        "name": "Treibstoffparadies",
+        "opening_hours": "24/7",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5298639,
+          48.2840707
+        ]
+      },
+      "id": "node/8016253468"
+    }
+  ]
+}

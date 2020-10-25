@@ -8,8 +8,8 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-	<link rel="stylesheet" href="lib/default.css">
-	<script src="lib/functions.js"></script>
+	<link rel="stylesheet" href="lib/vienna50m.css">
+	<script src="lib/vienna50m.js"></script>
 
 	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin="" />
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
@@ -18,74 +18,52 @@
 
 <body>
 
-	<div id="title">Lokalitäten in Wien mit 50m Radius:</div>
+	<div id="title">Lokalitäten/Tankstellen in Wien mit 50m Radius</div>
 
-	<div id="controls">
-		<div class="legend"><b>Legende:</b></div>
-		<div>
-			<table border="0" cellpadding="0" cellspacing="0" class="checkboxes">
-				<tr>
-					<td style="padding-right: 15px; padding-bottom: 3px">
-						Bars
-					</td>
-					<td style="padding-bottom: 3px">
-						<svg width="20" height="20">
-							<rect width="20" height="20" style="fill:#7fc97f" />
-						</svg>
-					</td>
-				</tr>
-				<tr>
-					<td style="padding-right: 15px; padding-bottom: 3px">
-						Biergärten
-					</td>
-					<td style="padding-bottom: 3px">
-						<svg width="20" height="20">
-							<rect width="20" height="20" style="fill:#beaed4" />
-						</svg>
-					</td>
-				</tr>
-				<tr>
-					<td style="padding-right: 15px; padding-bottom: 3px">
-						Cafes
-					</td>
-					<td style="padding-bottom: 3px">
-						<svg width="20" height="20">
-							<rect width="20" height="20" style="fill:#fdc086" />
-						</svg>
-					</td>
-				</tr>
-				<tr>
-					<td style="padding-right: 15px; padding-bottom: 3px">
-						Fast Food
-					</td>
-					<td style="padding-bottom: 3px">
-						<svg width="20" height="20">
-							<rect width="20" height="20" style="fill:#ffff99" />
-						</svg>
-					</td>
-				</tr>
-				<tr>
-					<td style="padding-right: 15px; padding-bottom: 3px">
-						Pubs
-					</td>
-					<td style="padding-bottom: 3px">
-						<svg width="20" height="20">
-							<rect width="20" height="20" style="fill:#386cb0" />
-						</svg>
-					</td>
-				</tr>
-				<tr>
-					<td style="padding-right: 15px; padding-bottom: 3px">
-						Restaurants
-					</td>
-					<td style="padding-bottom: 3px">
-						<svg width="20" height="20">
-							<rect width="20" height="20" style="fill:#f0027f" />
-						</svg>
-					</td>
-				</tr>
-			</table>
-		</div>
+	<div id="legend">
+		<span class="colorlabel">
+			Bars
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#7fc97f" />
+			</svg>
+		</span>
+		<span class="colorlabel">
+			Biergärten
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#beaed4" />
+			</svg>
+		</span>
+
+		<span class="colorlabel">
+			Cafés
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#fdc086" />
+			</svg>
+		</span>
+		<span class="colorlabel">
+			Imbiss
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#ffff99" />
+			</svg>
+		</span>
+		<span class="colorlabel">
+			Pubs
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#386cb0" />
+			</svg>
+		</span>
+		<span class="colorlabel">
+			Restaurants
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#f0027f" />
+			</svg>
+		</span>
+		<span class="colorlabel">
+			Tankstellen
+			<svg width="20" height="20">
+				<rect width="20" height="20" style="fill:#bf5b17" />
+			</svg>
+		</span>
 	</div>
 
 	<div id="coronamap"></div>
@@ -99,12 +77,13 @@
 
 		var CORONAMAP = 0;
 
-		var BARS = L.layerGroup();
-		var BEERGARDENS = L.layerGroup();
-		var CAFES = L.layerGroup();
-		var FASTFOOD = L.layerGroup();
-		var PUBS = L.layerGroup();
-		var RESTAURANTS = L.layerGroup();
+		var BARS = 0;
+		var BEERGARDENS = 0;
+		var CAFES = 0;
+		var FASTFOOD = 0;
+		var PUBS = 0;
+		var RESTAURANTS = 0;
+		var GASSTATIONS = 0;
 
 		InitMap();
 
