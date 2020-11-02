@@ -16,6 +16,8 @@ export class AppComponent implements OnInit {
   public showStart: boolean;
   public showSanityCheck: boolean;
   public showStudy: boolean;
+  public showDataProtection: boolean;
+  public showContact: boolean;
 
   private startPageListener$: Subscription;
 
@@ -44,11 +46,28 @@ export class AppComponent implements OnInit {
   }
 
   // tslint:disable-next-line:typedef
+  public onDataProtectionClicked() {
+    this.setShowDataProtection();
+  }
+
+  // tslint:disable-next-line:typedef
+  public onContactClicked() {
+    this.setShowContact();
+  }
+
+  // tslint:disable-next-line:typedef
+  public onBackClicked() {
+    this.setShowWelcome();
+  }
+
+  // tslint:disable-next-line:typedef
   private setShowWelcome() {
     this.showWelcome = true;
     this.showStart = false;
     this.showSanityCheck = false;
     this.showStudy = false;
+    this.showDataProtection = false;
+    this.showContact = false;
   }
 
   // tslint:disable-next-line:typedef
@@ -57,6 +76,8 @@ export class AppComponent implements OnInit {
     this.showStart = true;
     this.showSanityCheck = false;
     this.showStudy = false;
+    this.showDataProtection = false;
+    this.showContact = false;
   }
 
   // tslint:disable-next-line:typedef
@@ -65,6 +86,8 @@ export class AppComponent implements OnInit {
     this.showStart = false;
     this.showSanityCheck = true;
     this.showStudy = false;
+    this.showDataProtection = false;
+    this.showContact = false;
   }
 
   // tslint:disable-next-line:typedef
@@ -73,5 +96,27 @@ export class AppComponent implements OnInit {
     this.showStart = false;
     this.showSanityCheck = false;
     this.showStudy = true;
+    this.showDataProtection = false;
+    this.showContact = false;
+  }
+
+  // tslint:disable-next-line:typedef
+  private setShowDataProtection() {
+    this.showWelcome = false;
+    this.showStart = false;
+    this.showSanityCheck = false;
+    this.showStudy = false;
+    this.showDataProtection = true;
+    this.showContact = false;
+  }
+
+  // tslint:disable-next-line:typedef
+  private setShowContact() {
+    this.showWelcome = false;
+    this.showStart = false;
+    this.showSanityCheck = false;
+    this.showStudy = false;
+    this.showDataProtection = false;
+    this.showContact = true;
   }
 }

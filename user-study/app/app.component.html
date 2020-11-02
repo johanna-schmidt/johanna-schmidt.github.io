@@ -2,19 +2,21 @@
 <!-- Header -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
   <div class="container">
-    <a class="navbar-brand" href="#">User Study</a>
+    <span class="navbar-brand" href="#">User Study</span>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
+    <div *ngIf="showWelcome">
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
-        <li class="nav-item">
-          <a class="nav-link" href="#">Data Protection</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
-        </li>
-      </ul>
+         <li class="nav-item">
+           <a class="nav-link mouseptr" (click)="onDataProtectionClicked()">Data Protection</a>
+         </li>
+         <li class="nav-item">
+           <a class="nav-link mouseptr" (click)="onContactClicked()">Contact</a>
+         </li>
+       </ul>
+      </div>
     </div>
   </div>
 </nav>
@@ -33,6 +35,14 @@
         <p class="buttonstart">
           <button type="button" class="btn btn-info" (click)="onStartClicked()">Click HERE to start the study</button>
         </p>
+        <p style="text-align: left">
+          <br />
+          <br />
+          <b>Time required</b>: The study will require about 25 minutes of your time.<br />
+          <b>Risks</b>: There are no anticipated risks in this study.<br />
+          <b>Benefits</b>: There are no direct benefits to you for participating in this research study.<br />
+          <b>Payment</b>: You will receive no payment for participating in the interview.<br />
+        </p>
       </div>
 
       <!-- Start -->
@@ -47,7 +57,70 @@
 
       <!-- Study -->
       <div *ngIf="showStudy">
-        <p>THIS WILL BE THE STUDY!!!
+        <app-study></app-study>
+      </div>
+
+      <!-- Data Protection -->
+      <div *ngIf="showDataProtection">
+        <div class="text-left">
+          <br />
+          <br />
+          <p class="lead">Data recording</p>
+          <p>
+            We will record the answers to the tasks and also record the time it took to complete the tasks.
+            All data recording is done anonymous. The recorded data and the collected data from the anonymous
+            questionnaires will be used for our research analysis. Use of this data will be strictly limited to
+            this scientific project.
+          </p>
+          <p class="lead">Privacy and anonymity</p>
+          <p>
+            We will not ask for the name of the participants. Participants will only be represented by anonymous,
+            automatically generated tokens. All data will be held in accordance with the EU General Data Protection
+            Regulation (GDPR) and will not be used for any purpose for which it is not expressly permitted.
+          </p>
+          <p class="lead">Your participation</p>
+          <p>
+            Please note that you are free to participate in this study or not as you wish. You can  withdraw your
+            participation at any time without penalty. You can ask questions about the study at any time. You can
+            ask for any material to be deleted or not to be used in any way.
+          </p>
+          <p class="lead">How to withdraw from the study</p>
+          <p>
+            If you want to withdraw from the study, just stop finishing the tasks and close your browser window.
+            Incomplete material will not be stored and therefore not used in the evaluation of the study. If you would
+            like to withdraw after your materials have been submitted, please contact Johanna Schmidt
+            (<a href="mailto:johanna.schmidt@vrvis.at">johanna.schmidt@vrvis.at</a>).
+          </p>
+          <p>
+            <br />
+            <button type="button" class="btn btn-secondary" (click)="onBackClicked()"><- Back</button>
+          </p>
+        </div>
+      </div>
+
+      <!-- Contact -->
+      <div *ngIf="showContact">
+        <div class="text-left">
+          <br />
+          <br />
+          <p class="lead">Who we are</p>
+          <p>
+            We are researchers at the University of Vienna and the VRVis Zentrum für Virtual Reality und
+            Visualisierung Forschungs-GmbH, working on a research project to better understand how people read and
+            interpret data visualizations. We are conducting this study to evaluate different bin sizes for histogram
+            visualizations.
+          </p>
+          <p class="lead">Questions of Concerns</p>
+          <p>
+            Johanna Schmidt is the main responsible person for this user study. If you have any questions, concerns or
+            complaints about the project or the way the interview is being conducted, please feel free to contact her
+            via email (<a href="mailto:johanna.schmidt@vrvis.at">johanna.schmidt@vrvis.at</a>).
+          </p>
+          <p>
+            <br />
+            <button type="button" class="btn btn-secondary" (click)="onBackClicked()"><- Back</button>
+          </p>
+        </div>
       </div>
 
   </div>

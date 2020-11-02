@@ -4,6 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { AppComponent } from './app.component';
 import { StartComponent } from './start/start.component';
 import { SanitycheckComponent } from './sanitycheck/sanitycheck.component';
+import { StudyComponent } from './study/study.component';
 
 @NgModule({
   imports: [
@@ -13,7 +14,8 @@ import { SanitycheckComponent } from './sanitycheck/sanitycheck.component';
   declarations: [
     AppComponent,
     StartComponent,
-    SanitycheckComponent
+    SanitycheckComponent,
+    StudyComponent
   ],
   bootstrap: [AppComponent]
 })
