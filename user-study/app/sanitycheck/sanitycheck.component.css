@@ -1,0 +1,17 @@
+.sanitycheckform {
+  margin: 30px 0px 10px 0px;
+  text-align: left;
+}
+
+.errormsg {
+  padding: 20px 0px 0px 20px;
+}
+
+.errormsgtxt {
+  color: red;
+}
+
+.nextbtn {
+  text-align: right;
+  padding: 20px 0px 10px 0px;
+}
