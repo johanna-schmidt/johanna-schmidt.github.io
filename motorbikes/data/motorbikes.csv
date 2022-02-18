@@ -1,0 +1,110 @@
+manufacturer,motorbike,type,seatheight,height,length,width,wheelbase,weight,displacement
+Aprilia,Shiver,Naked Bike,80,113.5,212,80,144,210,896.1
+Aprilia,RS 660,Allrounder,82,,199.5,74.5,137,183,659
+Aprilia,RS V4 1100 Factory,Allrounder,85.1,,204,735,142,199,1099
+Benelli,BN 502c,Chopper,75,114,228,94,160,217,500
+Benelli,752 S,Naked Bike,81,110,213,82,146,228,754
+BMW,C 400 GT,Other,77.5,,221,83.5,156.5,214,350
+BMW,G 310 GS,Naked Bike,83.5,123,207.5,88,142,169.5,313
+BMW,G 310 R,Naked Bike,78.5,108,200.5,84.9,137.4,158.5,313
+BMW,F 750 GS,Naked Bike,81.5,,225.5,92.2,155.9,224,853
+BMW,F 800 R,Naked Bike,79,123.5,214.5,86,152,202,798
+BMW,R 1200 RS,Naked Bike,82,125,220.3,99.8,153,236,1170
+BMW,R 1250 R,Naked Bike,82,,216.5,88,151.5,239,1254
+BMW,R 1250 RS,Naked Bike,82,,220.2,92.5,153,243,1254
+BMW,R 1250 RT,Touring,80.5,,222.2,98.5,148.5,279,1254
+BMW,R nineT Pure,Naked Bike,80.5,124,210.5,86.5,,219,1170
+BMW,R nineT Racer,Allrounder,80.5,,210.5,92,149.1,220,1170
+BMW,R nineT Scrambler,Naked Bike,82,133,217.5,86.5,152.7,223,1170
+BMW,S 1000 RR,Naked Bike,83,,209,91.2,145,199,999
+BMW,Urban GS,Naked Bike,85,133,217.5,86.5,152.7,223,1170
+Brixton,Cromwell 125,Naked Bike,77,110.5,202,85,132,134,124.8
+Brixton,Crossfire,Naked Bike,79.5,111.6,211.7,75.5,141.6,190,486
+CF Moto,650 TK,Touring,79.5,137,214.5,82,141.5,229,649
+Ducati,Diavel 1260,Naked Bike,78,119.2,225.7,82.5,160,244,1261
+Ducati,XDiavel,Naked Bike,75.5,113.3,231,101,161.5,249,1262
+Ducati,Hypermotard 950,Enduro,87,115,210,86,149.3,204,937
+Ducati,Monster 797,Naked Bike,80.5,106.1,215.4,867,143.5,193,803
+Ducati,Monster 1200,Naked Bike,79.5,111.7,215.6,89,148.5,211,1198
+Ducati,Multistrada V4,Touring,84,156.4,240.5,102,156.7,240,115.8
+Ducati,Panigale V2,Allrounder,84,111.5,205.6,81,143.6,200,955
+Ducati,Panigale V4 R,Allrounder,83,114,208.5,74.5,146.9,193,998
+Ducati,Scrambler,Naked Bike,80.5,109,210.7,81,143.6,188,803
+Duacti,Scrambler 1100 Special,Naked Bike,81,129,219,92,151.4,211,1079
+Duacti,Scrambler Desert Sled,Enduro,86,121.3,220,94,150.5,209,803
+Ducati,Streetfighter V4,Allrounder,84.5,113.8,212.7,83.3,148.8,201,1103
+Fantic,Caballero Flat Track 500,Naked Bike,82,113.5,212,82,142.5,150,449
+Fantic,Caballero Scrambler,Naked Bike,82,113,208,,142.5,150,449
+Harley-Davidson,Fat Bob,Chopper,69,113.5,240,89,162,321,1690
+Harley-Davidson,FXDR 114,Chopper,70.4,108.3,241.6,92.9,173.8,303,1868
+Harley-Davidson,Road Glide Special,Touring,68.5,131,243,98,162.5,388,1868
+Harley-Davidson,Street 750,Chopper,71,108.5,222.5,82,153.5,223,749
+Honda,CB 500 X,Naked Bike,81,139,209.5,83,142.1,196,471
+Honda,CB 650 F,Allrounder,81,112,211,77.5,145,200,649
+Honda,CB 650 R,Naked Bike,81,115,212,75,145,202.5,649
+Honda,CB 1000 R,Naked Bike,83,109,212,78.9,145.5,212,998
+Honda,CBR 500 R,Allrounder,79,114.5,207.5,74,141,194,471
+Honda,CBR 650 F,Naked Bike,81,114.5,211,75.5,145,208,649
+Honda,CBR 650 R,Allrounder,81,115,212,75,145,208,649
+Honda,CBR 1000 RR Fireblade,Allrounder,83.2,112.5,206.5,72,140.5,196,999
+Honda,CMX 500 Rebel,Chopper,69,109.4,218.8,82,148.8,190,471
+Honda,Gold Wing GL 1800,Touring,74.5,134,247.5,92.5,169.5,365,1833
+Honda,Monkey,Naked Bike,77.5,102.9,171,75.5,115.5,107,125
+Honda,MSX 125,Naked Bike,76.5,101,176,75.5,120,102,125
+Honda,NC 750 X,Naked Bike,80,133,221,84.6,153.5,214,745
+Honda,Super Cub,Other,78,100,191.5,72,124.5,110,125
+Husqvarna,Vitpilen 401,Naked Bike,83.5,,,,136.7,151,373.2
+Husqvarna,Vitpilen 701,Naked Bike,83,,,,143.4,158,692.7
+Husqvarna,Svartpilen 401,Naked Bike,83.5,,,,136.7,152,373.2
+Husqvarna,Svartpilen 701,Naked Bike,83.5,,,,143.6,161,692.7
+Husqvarna,Supermoto 701,Enduro,89,,,,147,147,692.7
+Indian,FTR 1200,Naked Bike,84,,228.7,,152.4,221,1203
+Kawasaki,Ninja 125,Naked Bike,78.5,107.5,193.5,68.5,133,148,125
+Kawasaki,Ninja 650,Naked Bike,79,113.5,205.5,74,141,193,649
+Kawasaki,Ninja 1000,Naked Bike,83.4,119,210,82.5,144,235,1043
+Kawasaki,Versys-X 300,Naked Bike,84.5,139,217,,145,175,296
+Kawasaki,W 800,Naked Bike,77,112,213.5,92.5,146.5,217,773
+Kawasaki,Z 1000 R,Naked Bike,81.5,105.5,204.5,79,143.5,221,1043
+Kawasaki,Z 125,Naked Bike,81.5,101.5,193.5,74,133,146,125
+Kawasaki,Z 400,Naked Bike,78.5,105.5,199,80,137,167,399
+Kawasaki,Z 650,Naked Bike,79,114.5,205.5,85,141,187.1,649
+Kawasaki,Z 900,Naked Bike,79.5,106.5,207,82,145,210,948
+Kawasaki,Z 900 RS,Naked Bike,83.5,115,210,865,147,215,948
+Kawasaki,ZX-6R,Naked Bike,83,110,202.5,710,140,196,636
+KTM,125 Duke,Naked Bike,83,,,,1367,139,125
+KTM,390 Duke,Naked Bike,83,,,,136.7,149,373.2
+KTM,690 Duke,Naked Bike,83.5,,,,146.6,166,690
+KTM,790 Duke,Naked Bike,82.5,,,,147.5,169,799
+KTM,890 Duke R,Naked Bike,83.4,,,,148.2,166,890
+KTM,1290 Super Duke R,Naked Bike,83.5,,,,149.7,189,1301
+KTM,790 Adventure R,Enduro,88,,,,152.8,189,799
+KTM,690 SMC R,Enduro,89,,,,147,147,692.7
+Mash,Dirt Track 125,Naked Bike,81,116,198,88,,127,125
+Mash,Five Hundred,Naked Bike,79,113,210.5,76,1420,160,397
+Moto Guzzi,V7 III,Naked Bike,77,110,218.5,80,144.5,209,744
+Moto Morini,Milano,Naked Bike,82,,,,,375,1187
+MV Agusta,Brutale 800,Naked Bike,83,,204.5,87.5,140,175,798
+MV Agusta,Dragster 800 RR,Naked Bike,84.5,,203.5,93.5,140,175,798
+MV Agusta,F3 675,Allrounder,80.5,,206,72.5,138,173,675
+Royal Enfield,Classic 500 EFI,Naked Bike,80,105,216,80,137,175,499
+Royal Enfield,Continental GT,Naked Bike,82,106.7,211.9,74.5,139.8,212,648
+Royal Enfield,Himalayan,Naked Bike,80,137,219,84,146.5,199,411
+Suzuki,Katana,Allrounder,82.5,111,212.5,83,146,215,999
+Suzuki,SV 650,Naked Bike,78.5,109,214,76,144.5,200,645
+Suzuki,V-Strom 250,Naked Bike,80,129.5,215,79,142.5,188,248
+Triumph,Bonneville Bopper,Chopper,69,102.4,222,80,150,251,1200
+Triumph,Rocket 3 GT,Naked Bike,75,116.5,250,97,169.5,294,2458
+Triumph,Street Scrambler,Naked Bike,79,118,212.5,83.5,144.5,223,900
+Triumph,Street Triple 765 RS,Naked Bike,82.5,108.5,,77.5,140.5,187,765
+Triumph,Street Twin,Naked Bike,76.5,111,209.5,78,145,216,900
+Triumph,Thruxton R,Naked Bike,80.5,103,210.5,74.5,141.5,203,1200
+Triumph,Tiger 800 XRX,Touring,81,135,221.5,86.5,153,200,799
+United Motors,UM Renegade Commando 125,Chopper,77,,229,80,153,153,125
+Yamaha,FJR 1300 AE Ultimate Edition,Touring,80.2,145,223,75,154.5,292,1298
+Yamaha,MT-09,Naked Bike,82.5,119,209,795,143,189,889
+Yamaha,MT-10,Naked Bike,82.5,111,209.5,80,140,210,998
+Yamaha,Ténéré 700,Enduro,88,145.5,236.5,91.5,159,204,689
+Yamaha,Tracer 700,Naked Bike,83.5,127,213.8,80.6,140.4,196,689
+Yamaha,Tracer 900,Naked Bike,84.5,134.5,216,95,144,210,847
+Yamaha,XSR 700,Naked Bike,81.5,113,207.5,82,140.5,186,689
+Yamaha,YZF-R125,Naked Bike,82.5,106.5,195.5,68,135.5,142,124.7

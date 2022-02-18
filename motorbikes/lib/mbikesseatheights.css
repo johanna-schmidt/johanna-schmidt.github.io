@@ -1,0 +1,57 @@
+
+.datapoint {
+    cursor: help;
+}
+
+.poi {
+    cursor: col-resize;
+}
+
+.backgroundBar {
+    fill: #EDECED;
+    stroke: slategrey;
+    opacity: 0.5;
+}
+
+.foregroundColoredBar {
+    stroke: black;
+    opacity: 0.7;
+}
+
+.foregroundBar {
+    fill: darkslategrey;
+    stroke: black;
+    opacity: 0.7;
+}
+
+.tableview {
+    margin: 0px 20px 0px 20px;
+    border: 1px solid silver;
+    overflow-y: scroll;
+    width: 95%;
+    height: 30vH;
+}
+
+.contenttable {
+    width: 97%;
+    margin: 5px 7px 5px 7px;
+    border-collapse: collapse;
+    font-size: 9pt;
+    table-layout : fixed;
+}
+
+.contenttable tr:hover {
+    background-color: beige;
+}
+
+.contenttable th {
+    padding: 3px 7px 3px 7px;
+    border: 1px solid silver;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contenttable td {
+    padding: 3px 7px 3px 7px;
+    border: 1px solid silver;
+}

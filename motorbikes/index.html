@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>Seat Heights of Motorbikes</title>
+
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="./lib/mbikesseatheights.css">
+
+    <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+    <script src="./lib/barcharttypes.js"></script>
+    <script src="./lib/barchartmanufacturers.js"></script>
+    <script src="./lib/tableview.js"></script>
+    <script src="./lib/mbikesseatheights.js"></script>
+    <script src="./lib/utils.js"></script>
+
+</head>
+
+<body>
+
+    <div class="container-fluid" style="padding: 20px 50px 20px 50px">
+
+        <div class="row" style="padding: 7px 0px 20px 0px">
+            <h4>Motorbikes and seat heights</h4>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <svg id="scatterplot" width="90%" height="87vh"></svg>
+            </div>
+            <div class="col col col-lg-5">
+                <svg id="barchart1" width="100%" height="25vh"></svg>
+                <svg id="barchart2" width="100%" height="30vh"></svg>
+                <div id="tableview" class="tableview"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <div id="tooltip"></div>
+
+</body>
+
+<script>
+
+    let CURRENT_POI = 85;
+    let CURRENT_MBIKE = '';
+    const MBIKE_TYPES = ['Chopper', 'Naked Bike', 'Allrounder', 'Touring', 'Enduro', 'Other'];
+    const MBIKE_TYPES_COLORS = d3.scaleOrdinal().range(d3.schemeSet1).domain(MBIKE_TYPES);
+    const SCATTERPLOT = {
+        margin: { top: 40, right: 110, bottom: 45, left: 60 },
+        xAxis: 0,
+        yAxis: 0,
+        dataPoints: 0
+    };
+    let TOOLTIP = 0;
+    const DATASET = [];
+
+    d3.select(window).on('resize.updatesvg', () => {
+        createScatterplot();
+        createBarPlot1();
+        createBarPlot2();
+        createTableview();
+    });
+
+    d3.csv('./data/motorbikes.csv').then( function(data) {
+        data.forEach(d => DATASET.push(d));
+        createScatterplot();
+        createBarPlot1();
+        createBarPlot2();
+        createTableview();
+    });
+
+</script>
+
+</html>
