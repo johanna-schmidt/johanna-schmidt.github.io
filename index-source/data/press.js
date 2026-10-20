@@ -1,0 +1,27 @@
+/* Press: add new items at the top. lang: "EN" or "DE". */
+const PRESS = [
+ {date:"2023-10-16", outlet:"TU Wien Informatics", kind:"Interview", lang:"EN",
+  title:"#AlumniStories: Johanna Schmidt",
+  sum:"Why bars beat pies, and how I found my way as researcher, group lead and lecturer.",
+  url:"https://informatics.tuwien.ac.at/news/2509"},
+ {date:"2021-09-16", outlet:"FFG / FEMtech", kind:"Portrait", lang:"DE",
+  title:"Visual Analytics: Johanna Schmidt ist FEMtech-Expertin des Monats",
+  sum:"Named FEMtech Expert of the Month (September 2021) by the Austrian ministry's initiative for women in research and technology.",
+  url:"https://www.ffg.at/news/visual-analytics-johanna-schmidt-ist-femtech-expertin-des-monats"},
+ {date:"2021-03-08", outlet:"VRVis", kind:"Feature", lang:"EN",
+  title:"A day has more than 24 hours – the life of a researcher",
+  sum:"A photo feature following a day of research, project and team work.",
+  url:"https://www.vrvis.at/en/news-events/news/a-day-has-more-than-24-hours-the-life-of-a-researcher"},
+ {date:"2020-12-05", outlet:"science.ORF.at", kind:"Guest article", lang:"DE",
+  title:"Auf einen Blick verständlich – oder auch nicht",
+  sum:"Guest article on COVID-19 dashboards: what they get right, and where colour choices and hidden uncertainty mislead.",
+  url:"https://science.orf.at/stories/3203132/"},
+ {date:"2020-07-10", outlet:"MeinBezirk.at · RegionalMedien Austria", kind:"Interview", lang:"DE",
+  title:"Data Science-Expertin Johanna Schmidt: „Wir brauchen mehr Diversität in der Technik“",
+  sum:"Interview for the “FokusFrau” series on data visualization and on encouraging more women into tech.",
+  url:"https://www.meinbezirk.at/wieden/c-lokales/wir-brauchen-mehr-diversitaet-in-der-technik_a4119369"},
+ {date:"2020", outlet:"VRVis", kind:"News", lang:"EN",
+  title:"Johanna Schmidt is the new head of the Visual Analytics research department",
+  sum:"Announcement of taking over the Visual Analytics group at VRVis on 1 July 2020.",
+  url:"https://www.vrvis.at/en/news-events/news/johanna-schmidt-is-the-new-head-of-the-visual-analytics-research-department"}
+];

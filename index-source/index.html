@@ -1,1 +1,103 @@
-<html><body></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Johanna Schmidt</title>
+  <meta name="description" content="Johanna Schmidt – visual analytics researcher at Graz University of Technology. Publications, projects and press.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&amp;family=Instrument+Sans:wght@400;500;600&amp;family=IBM+Plex+Mono:wght@400;500&amp;display=swap">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script src="data/publications.js" defer></script>
+  <script src="data/press.js" defer></script>
+  <script src="data/projects.js" defer></script>
+  <script src="js/main.js" defer></script>
+</head>
+<body>
+<div class="wrap">
+  <aside class="card" aria-label="Profile">
+    <img class="portrait" src="img/portrait.jpg" alt="Portrait of Johanna Schmidt" width="320" height="400">
+    <div>
+      <h1>Johanna Schmidt</h1>
+      <div class="degree">Dipl.-Ing. Dr.techn.</div>
+    </div>
+    <ul class="profiles" aria-label="Profiles">
+      <li><a href="https://www.linkedin.com/in/johanna-schmidt-36480a147/">LinkedIn</a></li>
+      <li><a href="https://orcid.org/0000-0002-9638-6344">ORCID <span class="id">0000-0002-9638-6344</span></a></li>
+    </ul>
+    <p class="role">
+      <strong>Postdoctoral Researcher</strong><br>
+      <a href="https://ivc.tugraz.at/people/johanna-schmidt/">Institute of Visual Computing</a><br>
+      Graz University of Technology
+    </p>
+
+    <div class="block">
+      <p class="label">Contact</p>
+      <dl class="contact">
+        <div><dt>Email</dt><dd><span id="email">johanna.schmidt@tugraz.at</span> <button class="copy" id="copy-email" type="button">Copy</button></dd></div>
+        <div><dt>Phone</dt><dd>+43 316 873 5418</dd></div>
+        <div><dt>Office</dt><dd>Inffeldgasse 16c/II, Room ID02018<br>8010 Graz, Austria</dd></div>
+      </dl>
+    </div>
+
+    <div class="block">
+      <p class="label">Elsewhere</p>
+      <ul class="links">
+        <li><a href="https://ivc.tugraz.at/people/johanna-schmidt/">IVC profile</a></li>
+        <li><a href="https://online.tugraz.at/tug_online/visitenkarte.show_vcard?pPersonenId=DB44A7A007ACA823&amp;pPersonenGruppe=3">TUGRAZonline</a></li>
+        <li><a href="https://scholar.google.com/citations?user=udHbhQ0AAAAJ">Google Scholar</a></li>
+      </ul>
+    </div>
+
+    <div class="block chart">
+      <p class="label">Publications per year</p>
+      <div id="chart" role="img" aria-label="Bar chart of publications per year"></div>
+    </div>
+  </aside>
+
+  <main>
+    <section class="about" id="about" aria-labelledby="about-h">
+      <h2 id="about-h">About</h2>
+      <p>I work on visual analytics: interactive methods that let people inspect and make sense of large, messy data. My current focus is the visual analysis of very large time series, such as the sensor data that comes out of long-term monitoring of power plants and other industrial systems.</p>
+      <p>I received my PhD in computer science from TU Wien in 2016, supervised by Eduard Gröller. Afterwards I worked as a scientist at the AIT Austrian Institute of Technology on movement data, and led the Visual Analytics research group at VRVis GmbH in Vienna from 2020 to 2024. In 2025, I was one of the General Chairs of the VIS conference. I joined the Institute of Visual Computing at TU Graz in June 2026.</p>
+      <ul class="interests" aria-label="Research interests">
+        <li>Visual analytics</li>
+        <li>Time-series visualization</li>
+        <li>Data quality assessment</li>
+        <li>Visual data science</li>
+        <li>Data literacy</li>
+      </ul>
+    </section>
+
+    <div class="tabbed">
+      <div class="tabs" role="tablist" aria-label="Work">
+        <button type="button" class="tab" role="tab" id="tab-publications" aria-controls="publications" aria-selected="true">Publications <span class="count" id="pub-count"></span></button>
+        <button type="button" class="tab" role="tab" id="tab-press" aria-controls="press" aria-selected="false" tabindex="-1">Press &amp; media <span class="count" id="press-count"></span></button>
+        <button type="button" class="tab" role="tab" id="tab-projects" aria-controls="projects" aria-selected="false" tabindex="-1">Online Demos <span class="count" id="project-count"></span></button>
+      </div>
+
+      <section id="publications" role="tabpanel" aria-labelledby="tab-publications">
+        <div class="toolbar">
+          <input class="search" id="pub-search" type="search" placeholder="Search titles, authors, venues" aria-label="Search publications">
+        </div>
+        <div class="chips" id="pub-filters" role="group" aria-label="Filter by type"></div>
+        <div id="pub-list"></div>
+      </section>
+
+      <section id="press" role="tabpanel" aria-labelledby="tab-press" hidden>
+        <ul class="press" id="press-list"></ul>
+      </section>
+
+      <section id="projects" role="tabpanel" aria-labelledby="tab-projects" hidden>
+        <ul class="projects" id="project-list"></ul>
+      </section>
+    </div>
+
+    <footer>© 2026 Johanna Schmidt</footer>
+  </main>
+</div>
+
+</body>
+</html>
