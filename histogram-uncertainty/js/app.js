@@ -70,7 +70,7 @@ function renderSizeButtons(sizes) {
     .on("click", (_, d) => {
       state.n = d;
       renderSizeButtons(sizes);
-      render();
+      RenderPlot();
     });
 }
 
