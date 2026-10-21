@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Histogram Binning Uncertainty</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main>
+    <header>
+      <h1>Histogram Binning Uncertainty</h1>
+      <p class="subtitle">Explore the uncertainty of different binnings and check whether the binning matches your data</p>
+    </header>
+
+    <section class="controls" aria-label="Data selection">
+      <div class="control">
+        <label for="dist-select">Distribution</label>
+        <select id="dist-select" disabled></select>
+      </div>
+
+      <div class="control">
+        <span class="label" id="size-label">Sample size</span>
+        <div id="size-buttons" class="segmented" role="radiogroup" aria-labelledby="size-label"></div>
+      </div>
+    </section>
+
+    <section class="chart-card">
+      <span id="accuracy-badge" class="badge" role="status" aria-live="polite"></span>
+      <div id="chart" class="chart" role="img" aria-label="Histogram with error bars"></div>
+      <div id="message" class="message" hidden></div>
+
+      <div class="chart-controls">
+        <div class="control control-slider">
+          <label for="bin-slider">Bins <output id="bin-value" for="bin-slider">20</output></label>
+          <input id="bin-slider" type="range" min="1" max="300" value="20" step="1">
+        </div>
+
+        <label class="switch">
+          <input id="error-toggle" type="checkbox" role="switch" checked>
+          <span class="switch-track" aria-hidden="true"></span>
+          <span class="switch-label">Show Error Bars</span>
+        </label>
+      </div>
+    </section>
+  </main>
+
+  <div id="tooltip" class="tooltip" hidden></div>
+
+  <script src="lib/d3.min.js"></script>
+  <script src="js/globals.js"></script>
+  <script src="js/statistics.js"></script>
+  <script src="js/app.js"></script>
+
+  <script>
+    async function Init() {
+      ui.binSlider.value = state.bins;
+      ui.binValue.textContent = state.bins;
+      ui.binSlider.addEventListener("input", () => {
+        state.bins = +ui.binSlider.value;
+        ui.binValue.textContent = state.bins;
+        RenderPlot();
+      });
+
+      ui.errorToggle.checked = state.showErrors;
+      ui.errorToggle.addEventListener("change", () => {
+        state.showErrors = ui.errorToggle.checked;
+        RenderPlot();
+      });
+
+      ui.distSelect.addEventListener("change", () => selectDistribution(ui.distSelect.value));
+
+      // Re-render on width changes (chart container) and height changes (window).
+      let resizeTimer;
+      const scheduleRender = () => {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(RenderPlot, 100);
+      };
+      new ResizeObserver(scheduleRender).observe(ui.chart);
+      window.addEventListener("resize", scheduleRender);
+
+      state.summary = await loadSummary();
+
+      const dists = populateDistributions();
+      if (dists.length) await selectDistribution(dists[0]);
+    }
+
+    Init();
+  </script>
+</body>
+</html>
