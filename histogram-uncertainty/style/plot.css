@@ -1,0 +1,39 @@
+.chart { width: 100%; }
+.chart svg { display: block; width: 100%; height: auto; }
+
+.bar { fill: var(--bar); }
+.bar:hover { fill: var(--bar-hover); }
+/* Gradient fade-outs replace the solid bars (which stay for hover) */
+.fade-stop { stop-color: var(--bar); }
+.fade-band { pointer-events: none; }
+.faded .bar { fill-opacity: 0; }
+
+.errorbar {
+  fill: none;
+  stroke: var(--err);
+  pointer-events: none;
+}
+.axis text { fill: var(--muted); font-size: 12px; }
+.axis path, .axis line { stroke: var(--axis); }
+.grid line { stroke: var(--border); }
+.grid path { display: none; }
+.axis-title { fill: var(--muted); font-size: 12px; }
+
+.message { padding: 24px 8px; color: var(--muted); }
+.message code {
+  background: var(--accent-soft);
+  padding: 1px 5px;
+  border-radius: 4px;
+}
+
+.tooltip {
+  position: fixed;
+  pointer-events: none;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 0.8rem;
+  padding: 6px 9px;
+  border-radius: 6px;
+  white-space: nowrap;
+  z-index: 10;
+}

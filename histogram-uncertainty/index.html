@@ -4,7 +4,8 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Histogram Binning Uncertainty</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style/style.css">
+  <link rel="stylesheet" href="style/plot.css">
 </head>
 <body>
   <main>
@@ -36,11 +37,18 @@
           <input id="bin-slider" type="range" min="1" max="300" value="20" step="1">
         </div>
 
-        <label class="switch">
-          <input id="error-toggle" type="checkbox" role="switch" checked>
-          <span class="switch-track" aria-hidden="true"></span>
-          <span class="switch-label">Show Error Bars</span>
-        </label>
+        <div class="toggles">
+          <label class="switch">
+            <input id="uncertainty-toggle" type="checkbox" role="switch" checked>
+            <span class="switch-track" aria-hidden="true"></span>
+            <span class="switch-label">Show Uncertainty</span>
+          </label>
+          <div id="uncertainty-type" class="segmented segmented-sm" role="radiogroup" aria-label="Uncertainty visualization">
+            <button type="button" role="radio" data-type="errorbars" aria-checked="true">Error Bars</button>
+            <button type="button" role="radio" data-type="gradient" aria-checked="false">Gradient</button>
+          </div>
+        </div>
+
       </div>
     </section>
   </main>
@@ -50,42 +58,22 @@
   <script src="lib/d3.min.js"></script>
   <script src="js/globals.js"></script>
   <script src="js/statistics.js"></script>
+  <script src="js/ui.js"></script>
+  <script src="js/plot.js"></script>
   <script src="js/app.js"></script>
 
   <script>
-    async function Init() {
-      ui.binSlider.value = state.bins;
-      ui.binValue.textContent = state.bins;
-      ui.binSlider.addEventListener("input", () => {
-        state.bins = +ui.binSlider.value;
-        ui.binValue.textContent = state.bins;
-        RenderPlot();
-      });
-
-      ui.errorToggle.checked = state.showErrors;
-      ui.errorToggle.addEventListener("change", () => {
-        state.showErrors = ui.errorToggle.checked;
-        RenderPlot();
-      });
-
-      ui.distSelect.addEventListener("change", () => selectDistribution(ui.distSelect.value));
-
-      // Re-render on width changes (chart container) and height changes (window).
-      let resizeTimer;
-      const scheduleRender = () => {
-        clearTimeout(resizeTimer);
-        resizeTimer = setTimeout(RenderPlot, 100);
-      };
-      new ResizeObserver(scheduleRender).observe(ui.chart);
-      window.addEventListener("resize", scheduleRender);
-
-      state.summary = await loadSummary();
-
-      const dists = populateDistributions();
-      if (dists.length) await selectDistribution(dists[0]);
-    }
-
+    // Init application
     Init();
+    // Handle resize events
+    let resizeTimer;
+    const scheduleRender = () => {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(UpdatePlot, 100);
+    };
+    new ResizeObserver(scheduleRender).observe(ui.chart);
+    window.addEventListener('resize', scheduleRender);
+
   </script>
 </body>
 </html>
